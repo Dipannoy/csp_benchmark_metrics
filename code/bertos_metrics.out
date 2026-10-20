@@ -1,0 +1,2679 @@
+node393
+Sun Mar 15 10:40:37 EDT 2026
+Found 53 formulas to process for model: bertos
+
+>>> Processing Formula: Yb2H6C2N6 (3 structures)
+=========================================================
+Energy distance: 0.012016773223876953
+Wyckoff RMSE: 0.3640301022819325
+Wyckoff MAE: 0.305658941875
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 35.75379519701896
+Chamfer distance: 3.5605496069838214
+Hausdorff distance: 3.069651635073777
+Superpose RMSD: 1.301171623745558
+Graph Edit Distance: 54.0
+Fingerprint Distance: 1.8831669463555594
+XRD Euclidean Distance: 1.3866489582190193
+OFM Euclidean Distance: 0.11106649333728541
+=========================================================
+=========================================================
+Energy distance: 0.016094207763671875
+Wyckoff RMSE: 0.4228721850461253
+Wyckoff MAE: 0.3582300872916668
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 45.172867052823065
+Chamfer distance: 4.234730570614447
+Hausdorff distance: 4.45644485599216
+Superpose RMSD: 1.4803394326028425
+Graph Edit Distance: 49.0
+Fingerprint Distance: 1.771349581613566
+XRD Euclidean Distance: 1.363854277455828
+OFM Euclidean Distance: 0.11336222290617536
+=========================================================
+=========================================================
+Energy distance: 0.015811920166015625
+Wyckoff RMSE: 0.45649905483850767
+Wyckoff MAE: 0.3940562608333334
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 32.61844140550775
+Chamfer distance: 3.267309133080751
+Hausdorff distance: 4.041228986877071
+Superpose RMSD: 1.3225287728522046
+Graph Edit Distance: 47.0
+Fingerprint Distance: 1.519648231566396
+XRD Euclidean Distance: 1.3560022395778233
+OFM Euclidean Distance: 0.11111274519910108
+=========================================================
+
+>>> Processing Formula: CaCu3Pt4O12 (5 structures)
+Error processing /work/dg47/MLEG/CSPBenchMetrics/data/materium_structures_pmg/csp_benchmark_bertos_model_primitive_formula/relaxed_results_pmg/CaCu3Pt4O12/CaCu3Pt4O12_5.cif: cannot reshape array of size 13 into shape (4,3)
+Error processing /work/dg47/MLEG/CSPBenchMetrics/data/materium_structures_pmg/csp_benchmark_bertos_model_primitive_formula/relaxed_results_pmg/CaCu3Pt4O12/CaCu3Pt4O12_1.cif: cannot reshape array of size 13 into shape (4,3)
+Error processing /work/dg47/MLEG/CSPBenchMetrics/data/materium_structures_pmg/csp_benchmark_bertos_model_primitive_formula/relaxed_results_pmg/CaCu3Pt4O12/CaCu3Pt4O12_3.cif: cannot reshape array of size 13 into shape (4,3)
+Error processing /work/dg47/MLEG/CSPBenchMetrics/data/materium_structures_pmg/csp_benchmark_bertos_model_primitive_formula/relaxed_results_pmg/CaCu3Pt4O12/CaCu3Pt4O12_2.cif: cannot reshape array of size 13 into shape (4,3)
+Error processing /work/dg47/MLEG/CSPBenchMetrics/data/materium_structures_pmg/csp_benchmark_bertos_model_primitive_formula/relaxed_results_pmg/CaCu3Pt4O12/CaCu3Pt4O12_4.cif: cannot reshape array of size 13 into shape (4,3)
+
+>>> Processing Formula: Ba2SrTeO6 (4 structures)
+=========================================================
+Energy distance: 0.000301361083984375
+Wyckoff RMSE: 0.4502832501503563
+Wyckoff MAE: 0.330813948
+RMS Distance: 0.005322529959064372
+Anonymous RMS Distance: 0.005322529959064372
+Sinkhorn distance: 5.9007640363519
+Chamfer distance: 0.8106221957940589
+Hausdorff distance: 3.7517863069577446
+Superpose RMSD: 1.133519567454006
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.1282122285242585
+XRD Euclidean Distance: 0.41745152542749775
+OFM Euclidean Distance: 0.005319031849344402
+=========================================================
+=========================================================
+Energy distance: 0.00016546249389648438
+Wyckoff RMSE: 0.4503322390366213
+Wyckoff MAE: 0.33058281133333334
+RMS Distance: 0.0036393541786298228
+Anonymous RMS Distance: 0.0036393541786298228
+Sinkhorn distance: 5.823287001606739
+Chamfer distance: 0.7936606308775764
+Hausdorff distance: 3.7579739481708843
+Superpose RMSD: 1.1344463793814796
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.12286606719807841
+XRD Euclidean Distance: 0.19435544629299903
+OFM Euclidean Distance: 0.0012938208122467328
+=========================================================
+=========================================================
+Energy distance: 0.007622241973876953
+Wyckoff RMSE: 0.40911053419828003
+Wyckoff MAE: 0.3502840596666667
+RMS Distance: 0.09665298084908125
+Anonymous RMS Distance: 0.09665298084908125
+Sinkhorn distance: 9.453575007783607
+Chamfer distance: 1.5021581732434093
+Hausdorff distance: 3.9161380319058208
+Superpose RMSD: 1.1551380089456667
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.2506646231318348
+XRD Euclidean Distance: 0.7897229859869749
+OFM Euclidean Distance: 0.1893022442399583
+=========================================================
+=========================================================
+Energy distance: 8.392333984375e-05
+Wyckoff RMSE: 0.46186970434591434
+Wyckoff MAE: 0.3574236743333333
+RMS Distance: 0.00646864114745123
+Anonymous RMS Distance: 0.00646864114745123
+Sinkhorn distance: 9.426797914162584
+Chamfer distance: 1.5058430306149537
+Hausdorff distance: 3.8041638469871644
+Superpose RMSD: 1.1220195234556034
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.13041558105299894
+XRD Euclidean Distance: 0.29988713089787133
+OFM Euclidean Distance: 0.004910198241387352
+=========================================================
+
+>>> Processing Formula: Ca4Se4O12 (1 structures)
+=========================================================
+Energy distance: 0.02098846435546875
+Wyckoff RMSE: 0.4418418151420826
+Wyckoff MAE: 0.38266390133333333
+RMS Distance: 0.4684870700038667
+Anonymous RMS Distance: 0.4684870700038667
+Sinkhorn distance: 36.67636934297839
+Chamfer distance: 3.2274447866924794
+Hausdorff distance: 3.2732663229133467
+Superpose RMSD: 1.640922378265873
+Graph Edit Distance: 46.0
+Fingerprint Distance: 0.3514292211314836
+XRD Euclidean Distance: 0.8624362406723004
+OFM Euclidean Distance: 0.04505979037261761
+=========================================================
+
+>>> Processing Formula: Sm2Ta2O8 (2 structures)
+=========================================================
+Energy distance: 0.0031223297119140625
+Wyckoff RMSE: 0.42159842199601405
+Wyckoff MAE: 0.3458487813888889
+RMS Distance: 0.43697429465639326
+Anonymous RMS Distance: 0.43697429465639326
+Sinkhorn distance: 25.47229140725328
+Chamfer distance: 3.2029920807862924
+Hausdorff distance: 4.863656446918292
+Superpose RMSD: 1.199905137188193
+Graph Edit Distance: 18.0
+Fingerprint Distance: 0.4887951835920756
+XRD Euclidean Distance: 0.977884728330926
+OFM Euclidean Distance: 0.08491921859793422
+=========================================================
+=========================================================
+Energy distance: 0.003387451171875
+Wyckoff RMSE: 0.44541740346232833
+Wyckoff MAE: 0.37736459805555556
+RMS Distance: 0.43544802002398497
+Anonymous RMS Distance: 0.43544802002398497
+Sinkhorn distance: 22.945343327922203
+Chamfer distance: 3.031090711973384
+Hausdorff distance: 2.694707987105701
+Superpose RMSD: 1.32565031260763
+Graph Edit Distance: 18.0
+Fingerprint Distance: 0.47949695034847584
+XRD Euclidean Distance: 0.9386099367426066
+OFM Euclidean Distance: 0.08572660313731253
+=========================================================
+
+>>> Processing Formula: RbLi3S2O9 (1 structures)
+=========================================================
+Energy distance: 0.07779359817504883
+Wyckoff RMSE: 0.3817202588169251
+Wyckoff MAE: 0.2935857797777778
+RMS Distance: 0.5063224016124742
+Anonymous RMS Distance: 0.5063224016124742
+Sinkhorn distance: 26.501832728771685
+Chamfer distance: 3.070968527060494
+Hausdorff distance: 2.792337620689196
+Superpose RMSD: 1.3996441199815741
+Graph Edit Distance: 40.0
+Fingerprint Distance: 1.0531066737484969
+XRD Euclidean Distance: 0.6935507209062797
+OFM Euclidean Distance: 0.08335624127239574
+=========================================================
+
+>>> Processing Formula: Nb2P2Se2 (1 structures)
+=========================================================
+Energy distance: 0.05813741683959961
+Wyckoff RMSE: 0.334721845171254
+Wyckoff MAE: 0.2556928322222222
+RMS Distance: 0.4043310846843032
+Anonymous RMS Distance: 0.21498756367657063
+Sinkhorn distance: 59.65720889806231
+Chamfer distance: 10.989085088276305
+Hausdorff distance: 11.85760220902115
+Superpose RMSD: 1.5910368354220135
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.0715991274332362
+XRD Euclidean Distance: 1.257065248687172
+OFM Euclidean Distance: 0.28889615275855873
+=========================================================
+
+>>> Processing Formula: Ba4NaB3N6 (2 structures)
+=========================================================
+Energy distance: 3.337860107421875e-05
+Wyckoff RMSE: 0.47740721223091376
+Wyckoff MAE: 0.33374580238095236
+RMS Distance: 0.00046314816447180123
+Anonymous RMS Distance: 0.00046314816447180123
+Sinkhorn distance: 34.36499231121296
+Chamfer distance: 3.468505084667729
+Hausdorff distance: 3.466148873996984
+Superpose RMSD: 1.615484118327813
+Graph Edit Distance: 6.0
+Fingerprint Distance: 0.0909761961097474
+XRD Euclidean Distance: 0.1519939369887162
+OFM Euclidean Distance: 0.0011015166168331448
+=========================================================
+=========================================================
+Energy distance: 3.3855438232421875e-05
+Wyckoff RMSE: 0.4647746675052845
+Wyckoff MAE: 0.3337457030952381
+RMS Distance: 0.0004633504466557146
+Anonymous RMS Distance: 0.0004633504466557146
+Sinkhorn distance: 34.36499069479418
+Chamfer distance: 3.46850421627643
+Hausdorff distance: 3.4661482546144344
+Superpose RMSD: 1.615483556915667
+Graph Edit Distance: 6.0
+Fingerprint Distance: 0.09098778335567705
+XRD Euclidean Distance: 0.15198749147326143
+OFM Euclidean Distance: 0.0011022938048840982
+=========================================================
+
+>>> Processing Formula: Ba2ErSbO6 (5 structures)
+=========================================================
+Energy distance: 2.9087066650390625e-05
+Wyckoff RMSE: 0.36066739232367045
+Wyckoff MAE: 0.163966913
+RMS Distance: 0.0025376989112817186
+Anonymous RMS Distance: 0.0025376989112817186
+Sinkhorn distance: 5.577857363301114
+Chamfer distance: 0.7501852660384909
+Hausdorff distance: 3.6672407568046785
+Superpose RMSD: 1.1023120667173814
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.11222327832066172
+XRD Euclidean Distance: 0.03871061004847477
+OFM Euclidean Distance: 0.01027634984191497
+=========================================================
+=========================================================
+Energy distance: 2.86102294921875e-05
+Wyckoff RMSE: 0.40047780128642385
+Wyckoff MAE: 0.22718052366666663
+RMS Distance: 0.00041741913995142576
+Anonymous RMS Distance: 0.00041741913995142576
+Sinkhorn distance: 5.540696500044483
+Chamfer distance: 0.7407415101888506
+Hausdorff distance: 3.6773156909818416
+Superpose RMSD: 1.1019347392127905
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10993404911585969
+XRD Euclidean Distance: 0.25204230163205155
+OFM Euclidean Distance: 0.00470735299642907
+=========================================================
+=========================================================
+Energy distance: 9.5367431640625e-07
+Wyckoff RMSE: 0.4004642055723279
+Wyckoff MAE: 0.22717101166666656
+RMS Distance: 0.0003665776776658054
+Anonymous RMS Distance: 0.0003665776776658054
+Sinkhorn distance: 5.559375264335058
+Chamfer distance: 0.745239807615028
+Hausdorff distance: 3.671732500580618
+Superpose RMSD: 1.1022890872331945
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10958514764904599
+XRD Euclidean Distance: 0.1465520162117901
+OFM Euclidean Distance: 0.003590227791651583
+=========================================================
+=========================================================
+Energy distance: 3.337860107421875e-06
+Wyckoff RMSE: 0.40043835583070464
+Wyckoff MAE: 0.22715115933333335
+RMS Distance: 0.0003650442511661245
+Anonymous RMS Distance: 0.0003650442511661245
+Sinkhorn distance: 5.564769694319644
+Chamfer distance: 0.7466796491036003
+Hausdorff distance: 3.6687956074577146
+Superpose RMSD: 1.1024508283378576
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10965548834636762
+XRD Euclidean Distance: 0.09422121770302073
+OFM Euclidean Distance: 0.0029845357377726637
+=========================================================
+=========================================================
+Energy distance: 1.33514404296875e-05
+Wyckoff RMSE: 0.40050935410318317
+Wyckoff MAE: 0.22720628266666665
+RMS Distance: 0.0005825945493183487
+Anonymous RMS Distance: 0.0005825945493183487
+Sinkhorn distance: 5.562482927748603
+Chamfer distance: 0.7458658009878245
+Hausdorff distance: 3.6719630733691493
+Superpose RMSD: 1.102247313337697
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10914531380354313
+XRD Euclidean Distance: 0.14773269186000382
+OFM Euclidean Distance: 0.004683328480302029
+=========================================================
+
+>>> Processing Formula: Rb3PrCl6 (1 structures)
+=========================================================
+Energy distance: 0.05526995658874512
+Wyckoff RMSE: 0.45993248138371035
+Wyckoff MAE: 0.35588333833333335
+RMS Distance: 0.2246953118394119
+Anonymous RMS Distance: 0.2246953118394119
+Sinkhorn distance: 13.382148503888683
+Chamfer distance: 2.282633650659106
+Hausdorff distance: 4.662154047850245
+Superpose RMSD: 1.4164298465258447
+Graph Edit Distance: 0.0
+Fingerprint Distance: 2.024926678252646
+XRD Euclidean Distance: 1.1647564496926606
+OFM Euclidean Distance: 0.19203322292357175
+=========================================================
+
+>>> Processing Formula: Sm2Fe2As2O2 (5 structures)
+=========================================================
+Energy distance: 0.0024671554565429688
+Wyckoff RMSE: 0.5545254548772732
+Wyckoff MAE: 0.4257809175
+RMS Distance: 0.0038538405600527757
+Anonymous RMS Distance: 0.0038538405600527757
+Sinkhorn distance: 18.041103225025587
+Chamfer distance: 4.317342856425788
+Hausdorff distance: 4.653834533133586
+Superpose RMSD: 1.4096361485332063
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.058451130680969146
+XRD Euclidean Distance: 0.9666752160521505
+OFM Euclidean Distance: 0.009128164189843514
+=========================================================
+=========================================================
+Energy distance: 0.002552509307861328
+Wyckoff RMSE: 0.5545823333483635
+Wyckoff MAE: 0.42585587875
+RMS Distance: 0.005400407741244022
+Anonymous RMS Distance: 0.005400407741244022
+Sinkhorn distance: 18.008408122392957
+Chamfer distance: 4.307989149932803
+Hausdorff distance: 4.645066467563266
+Superpose RMSD: 1.4088261720879913
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.07605669364689097
+XRD Euclidean Distance: 0.8242411968323377
+OFM Euclidean Distance: 0.012004216846374684
+=========================================================
+=========================================================
+Energy distance: 0.002490997314453125
+Wyckoff RMSE: 0.46377794840225534
+Wyckoff MAE: 0.36582238458333344
+RMS Distance: 0.00524523163600119
+Anonymous RMS Distance: 0.00524523163600119
+Sinkhorn distance: 16.36486489227732
+Chamfer distance: 3.5893527006559083
+Hausdorff distance: 3.637411705721334
+Superpose RMSD: 1.5072386291290254
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.06625080685842584
+XRD Euclidean Distance: 0.9797202472631211
+OFM Euclidean Distance: 0.010166813592313058
+=========================================================
+=========================================================
+Energy distance: 0.0025663375854492188
+Wyckoff RMSE: 0.5545948488087886
+Wyckoff MAE: 0.42586234166666664
+RMS Distance: 0.0056044424229869366
+Anonymous RMS Distance: 0.0056044424229869366
+Sinkhorn distance: 18.056681701047236
+Chamfer distance: 4.316253188041336
+Hausdorff distance: 4.64976020991479
+Superpose RMSD: 1.4093643059289198
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.07808757053074539
+XRD Euclidean Distance: 0.9490970075270979
+OFM Euclidean Distance: 0.011605591504189078
+=========================================================
+=========================================================
+Energy distance: 0.0025386810302734375
+Wyckoff RMSE: 0.4637715765257198
+Wyckoff MAE: 0.36579706833333336
+RMS Distance: 0.005673910888228542
+Anonymous RMS Distance: 0.005673910888228542
+Sinkhorn distance: 16.388522371958796
+Chamfer distance: 3.593508254272381
+Hausdorff distance: 3.64876150730116
+Superpose RMSD: 1.5070549772867796
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.07536633759980943
+XRD Euclidean Distance: 0.9846374376900097
+OFM Euclidean Distance: 0.011177387434937909
+=========================================================
+
+>>> Processing Formula: K2LiInF6 (4 structures)
+=========================================================
+Energy distance: 0.00013494491577148438
+Wyckoff RMSE: 0.41775569495586057
+Wyckoff MAE: 0.30257779400000007
+RMS Distance: 0.0326338920999023
+Anonymous RMS Distance: 0.0326338920999023
+Sinkhorn distance: 36.148432049326445
+Chamfer distance: 6.466914368540207
+Hausdorff distance: 6.287471094634209
+Superpose RMSD: 1.6071865464219104
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.6176422845084163
+XRD Euclidean Distance: 0.3724578954076385
+OFM Euclidean Distance: 0.10010840021378696
+=========================================================
+=========================================================
+Energy distance: 0.00020885467529296875
+Wyckoff RMSE: 0.45614900248999873
+Wyckoff MAE: 0.37026777700000013
+RMS Distance: 0.04641985393878284
+Anonymous RMS Distance: 0.046388183838197296
+Sinkhorn distance: 32.06144843114256
+Chamfer distance: 5.950175158113802
+Hausdorff distance: 6.283719026895384
+Superpose RMSD: 2.0705565162881645
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.8650537088658233
+XRD Euclidean Distance: 0.41273524493233854
+OFM Euclidean Distance: 0.13187805964450378
+=========================================================
+=========================================================
+Energy distance: 0.0005345344543457031
+Wyckoff RMSE: 0.41818946321329753
+Wyckoff MAE: 0.3383534693333333
+RMS Distance: 0.061573797269383536
+Anonymous RMS Distance: 0.06153878675067939
+Sinkhorn distance: 35.651213743610526
+Chamfer distance: 6.421418409610362
+Hausdorff distance: 6.27107034136299
+Superpose RMSD: 1.6145815971018556
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.0810769269662113
+XRD Euclidean Distance: 0.3788887168276677
+OFM Euclidean Distance: 0.15796458317596085
+=========================================================
+=========================================================
+Energy distance: 0.000125885009765625
+Wyckoff RMSE: 0.43736916733406667
+Wyckoff MAE: 0.35393828299999996
+RMS Distance: 0.05003519870897386
+Anonymous RMS Distance: 0.05003052322400919
+Sinkhorn distance: 34.724630023012736
+Chamfer distance: 6.2276052672387845
+Hausdorff distance: 6.2857178365836015
+Superpose RMSD: 1.4853610339478613
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.8811718809932994
+XRD Euclidean Distance: 0.15006319019443562
+OFM Euclidean Distance: 0.13888320556856273
+=========================================================
+
+>>> Processing Formula: CsCdN3O6 (1 structures)
+=========================================================
+Energy distance: 0.011279106140136719
+Wyckoff RMSE: 0.4318682602295352
+Wyckoff MAE: 0.32776997696969695
+RMS Distance: 0.5633766955742483
+Anonymous RMS Distance: 0.5633766955742483
+Sinkhorn distance: 24.810414406626528
+Chamfer distance: 3.8296019744173515
+Hausdorff distance: 3.9778623811046794
+Superpose RMSD: 1.7697307965679792
+Graph Edit Distance: 15.0
+Fingerprint Distance: 1.566581938645859
+XRD Euclidean Distance: 1.322134812397497
+OFM Euclidean Distance: 0.14013004304615181
+=========================================================
+
+>>> Processing Formula: K2LiCrF6 (4 structures)
+=========================================================
+Energy distance: 0.00021409988403320312
+Wyckoff RMSE: 0.4472242105503398
+Wyckoff MAE: 0.40358372866666664
+RMS Distance: 0.000534787645191857
+Anonymous RMS Distance: 0.000534787645191857
+Sinkhorn distance: 6.194556089263166
+Chamfer distance: 0.8913137811295033
+Hausdorff distance: 3.502616073994276
+Superpose RMSD: 1.0626582774284676
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10971722038917402
+XRD Euclidean Distance: 0.354561693379713
+OFM Euclidean Distance: 0.0012655330194234608
+=========================================================
+=========================================================
+Energy distance: 0.00015878677368164062
+Wyckoff RMSE: 0.507338945229266
+Wyckoff MAE: 0.4074259050000001
+RMS Distance: 0.0005740221373409541
+Anonymous RMS Distance: 0.0005740221373409541
+Sinkhorn distance: 5.371084114379895
+Chamfer distance: 0.726340389011195
+Hausdorff distance: 3.504597792501347
+Superpose RMSD: 1.0557866751828675
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10982607181430148
+XRD Euclidean Distance: 0.2591801076751491
+OFM Euclidean Distance: 0.0014413466803880456
+=========================================================
+=========================================================
+Energy distance: 9.441375732421875e-05
+Wyckoff RMSE: 0.44708313918272924
+Wyckoff MAE: 0.4035121086666667
+RMS Distance: 0.0013634680318944394
+Anonymous RMS Distance: 0.0013634680318944394
+Sinkhorn distance: 0.9510571943817246
+Chamfer distance: 0.19021143887634492
+Hausdorff distance: 0.16040106289402992
+Superpose RMSD: 0.11721198708380108
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.11005187486716693
+XRD Euclidean Distance: 0.1431682659221305
+OFM Euclidean Distance: 0.002301763407142322
+=========================================================
+=========================================================
+Energy distance: 0.0002474784851074219
+Wyckoff RMSE: 0.5072529435339903
+Wyckoff MAE: 0.4073287503333332
+RMS Distance: 0.00035928064013256535
+Anonymous RMS Distance: 0.00035928064013256535
+Sinkhorn distance: 5.405779015665555
+Chamfer distance: 0.7342530729784307
+Hausdorff distance: 3.5016320982314117
+Superpose RMSD: 1.0563873796053114
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10985724774075317
+XRD Euclidean Distance: 0.4022059985163772
+OFM Euclidean Distance: 0.0018159583082554562
+=========================================================
+
+>>> Processing Formula: K4Na2Ga2P4 (5 structures)
+=========================================================
+Energy distance: 0.00043082237243652344
+Wyckoff RMSE: 0.4163712238324974
+Wyckoff MAE: 0.3076144005555556
+RMS Distance: 0.0039016345153372036
+Anonymous RMS Distance: 0.0039016345153372036
+Sinkhorn distance: 32.48990246520964
+Chamfer distance: 4.85118957140621
+Hausdorff distance: 5.90225063389732
+Superpose RMSD: 2.107836906590759
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.05652843367191357
+XRD Euclidean Distance: 0.32936965861200046
+OFM Euclidean Distance: 0.00436110508218174
+=========================================================
+=========================================================
+Energy distance: 0.0005943775177001953
+Wyckoff RMSE: 0.4329789996375489
+Wyckoff MAE: 0.3215891350000001
+RMS Distance: 0.0053031020642615775
+Anonymous RMS Distance: 0.0053031020642615775
+Sinkhorn distance: 36.593967956756046
+Chamfer distance: 5.292598244858976
+Hausdorff distance: 5.936809846226274
+Superpose RMSD: 2.205063527644186
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.07144185595399591
+XRD Euclidean Distance: 0.2864289460602624
+OFM Euclidean Distance: 0.008538402035081362
+=========================================================
+=========================================================
+Energy distance: 0.0002143383026123047
+Wyckoff RMSE: 0.39596713923858606
+Wyckoff MAE: 0.33400295944444447
+RMS Distance: 0.0023214140350371927
+Anonymous RMS Distance: 0.0023214140350371927
+Sinkhorn distance: 40.73282154507416
+Chamfer distance: 5.883204150366488
+Hausdorff distance: 7.190910133820005
+Superpose RMSD: 2.1099541473878016
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.04044749931061174
+XRD Euclidean Distance: 0.16614182492856283
+OFM Euclidean Distance: 0.0029056274490475713
+=========================================================
+=========================================================
+Energy distance: 0.0003120899200439453
+Wyckoff RMSE: 0.43289823392230986
+Wyckoff MAE: 0.32156460027777783
+RMS Distance: 0.0035504647518516336
+Anonymous RMS Distance: 0.0035504647518516336
+Sinkhorn distance: 36.576314178034444
+Chamfer distance: 5.290580202178537
+Hausdorff distance: 5.939645189796232
+Superpose RMSD: 2.2053932474072746
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.058847329834096185
+XRD Euclidean Distance: 0.29071965472146244
+OFM Euclidean Distance: 0.007051747812181062
+=========================================================
+=========================================================
+Energy distance: 0.0014269351959228516
+Wyckoff RMSE: 0.4167638123285183
+Wyckoff MAE: 0.2938941041666667
+RMS Distance: 0.0083271174110238
+Anonymous RMS Distance: 0.0083271174110238
+Sinkhorn distance: 42.4504681789304
+Chamfer distance: 5.591767533282048
+Hausdorff distance: 6.746211607756757
+Superpose RMSD: 9999
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10744182477261635
+XRD Euclidean Distance: 0.2747316384802981
+OFM Euclidean Distance: 0.005318197665912264
+=========================================================
+
+>>> Processing Formula: LaF3 (2 structures)
+=========================================================
+Energy distance: 0.14077186584472656
+Wyckoff RMSE: 0.34413061965708525
+Wyckoff MAE: 0.25568877333333334
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 10.480799268233799
+Chamfer distance: 4.531545470902914
+Hausdorff distance: 3.9456922218563797
+Superpose RMSD: 1.2709617120594627
+Graph Edit Distance: 3.0
+Fingerprint Distance: 1.7837348349150792
+XRD Euclidean Distance: 1.829837553665111
+OFM Euclidean Distance: 0.9746658457298595
+=========================================================
+=========================================================
+Energy distance: 0.1408686637878418
+Wyckoff RMSE: 0.5088301072733343
+Wyckoff MAE: 0.4221821416666667
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 10.73001211404346
+Chamfer distance: 4.215051747031429
+Hausdorff distance: 3.304267852047569
+Superpose RMSD: 1.5104348565959334
+Graph Edit Distance: 3.0
+Fingerprint Distance: 1.7951912053828285
+XRD Euclidean Distance: 1.8617221737428502
+OFM Euclidean Distance: 0.9584267469672892
+=========================================================
+
+>>> Processing Formula: Tb5S7 (4 structures)
+=========================================================
+Energy distance: 0.0010733604431152344
+Wyckoff RMSE: 0.45345532068639904
+Wyckoff MAE: 0.37891731083333335
+RMS Distance: 0.0015795970289280204
+Anonymous RMS Distance: 0.0015795970289280204
+Sinkhorn distance: 8.375917433234122
+Chamfer distance: 0.9443310188681859
+Hausdorff distance: 2.760565413286355
+Superpose RMSD: 1.018058383597762
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.04171994332022546
+XRD Euclidean Distance: 0.20055949608315585
+OFM Euclidean Distance: 0.004791525675950302
+=========================================================
+=========================================================
+Energy distance: 0.0010509490966796875
+Wyckoff RMSE: 0.45340117050750345
+Wyckoff MAE: 0.37886528583333334
+RMS Distance: 0.0015787594724822134
+Anonymous RMS Distance: 0.0015787594724822134
+Sinkhorn distance: 8.41569997818603
+Chamfer distance: 0.9512488809749466
+Hausdorff distance: 2.762095253186098
+Superpose RMSD: 1.0177936814444344
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.04415127453603908
+XRD Euclidean Distance: 0.21254052005894725
+OFM Euclidean Distance: 0.006038933736480313
+=========================================================
+=========================================================
+Energy distance: 0.0009412765502929688
+Wyckoff RMSE: 0.4535903197779416
+Wyckoff MAE: 0.3790480452777778
+RMS Distance: 0.002224835195336077
+Anonymous RMS Distance: 0.002224835195336077
+Sinkhorn distance: 8.501916756896442
+Chamfer distance: 0.9657306454969439
+Hausdorff distance: 2.764672831300427
+Superpose RMSD: 1.017148203885965
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.049412029904959326
+XRD Euclidean Distance: 0.23893600823129338
+OFM Euclidean Distance: 0.007703519208236273
+=========================================================
+=========================================================
+Energy distance: 0.001506805419921875
+Wyckoff RMSE: 0.453405201015795
+Wyckoff MAE: 0.37881742500000004
+RMS Distance: 0.0011208020289268656
+Anonymous RMS Distance: 0.0011208020289268656
+Sinkhorn distance: 8.459599443933932
+Chamfer distance: 0.9598437834761031
+Hausdorff distance: 2.7627628582484527
+Superpose RMSD: 1.0185200143954631
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.04249677831714109
+XRD Euclidean Distance: 0.28596579981893705
+OFM Euclidean Distance: 0.007424238466964534
+=========================================================
+
+>>> Processing Formula: Co2Te2 (3 structures)
+=========================================================
+Energy distance: 0.01621532440185547
+Wyckoff RMSE: 0.45338216576748797
+Wyckoff MAE: 0.37555821083333335
+RMS Distance: 0.44390574192232696
+Anonymous RMS Distance: 0.44390574192232696
+Sinkhorn distance: 11.649371598661158
+Chamfer distance: 4.873898538257886
+Hausdorff distance: 3.717035516653673
+Superpose RMSD: 1.3634730077277541
+Graph Edit Distance: 2.0
+Fingerprint Distance: 2.215879450146947
+XRD Euclidean Distance: 1.7582584990004768
+OFM Euclidean Distance: 0.6997278415034998
+=========================================================
+=========================================================
+Energy distance: 0.000118255615234375
+Wyckoff RMSE: 0.4078293978760887
+Wyckoff MAE: 0.3799215025
+RMS Distance: 0.0018283217564683053
+Anonymous RMS Distance: 0.0018283217564683053
+Sinkhorn distance: 8.279221386451994
+Chamfer distance: 3.0214513781070806
+Hausdorff distance: 2.8685991478080064
+Superpose RMSD: 0.9799233112783673
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.02517680335211937
+XRD Euclidean Distance: 0.2928175001076335
+OFM Euclidean Distance: 0.008989484715349438
+=========================================================
+=========================================================
+Energy distance: 0.0002512931823730469
+Wyckoff RMSE: 0.44248506727407816
+Wyckoff MAE: 0.40054218
+RMS Distance: 0.005063649875764506
+Anonymous RMS Distance: 0.005063649875764506
+Sinkhorn distance: 8.008170174402252
+Chamfer distance: 3.600843012391502
+Hausdorff distance: 2.807795187187622
+Superpose RMSD: 1.3164827294335677
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.028640335815311252
+XRD Euclidean Distance: 0.16265511990506493
+OFM Euclidean Distance: 0.04716398874986107
+=========================================================
+
+>>> Processing Formula: Be4Si4N8 (1 structures)
+=========================================================
+Energy distance: 0.2768731117248535
+Wyckoff RMSE: 0.4051468029029925
+Wyckoff MAE: 0.3155677760416667
+RMS Distance: 0.5879490314611023
+Anonymous RMS Distance: 0.5879490314611023
+Sinkhorn distance: 33.9329409576871
+Chamfer distance: 3.341215101850686
+Hausdorff distance: 4.063448893006595
+Superpose RMSD: 1.3149184776732963
+Graph Edit Distance: 44.0
+Fingerprint Distance: 1.9580065000256641
+XRD Euclidean Distance: 1.6543407114105673
+OFM Euclidean Distance: 0.2315961265423765
+=========================================================
+
+>>> Processing Formula: Dy2Cu4 (1 structures)
+=========================================================
+Energy distance: 0.013701915740966797
+Wyckoff RMSE: 0.39243458998200065
+Wyckoff MAE: 0.34695842222222223
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 13.437087674782529
+Chamfer distance: 4.035814323853086
+Hausdorff distance: 3.6125165301130133
+Superpose RMSD: 1.23267296437332
+Graph Edit Distance: 4.0
+Fingerprint Distance: 1.3444056428138582
+XRD Euclidean Distance: 1.7676990901733913
+OFM Euclidean Distance: 0.2577680406575225
+=========================================================
+
+>>> Processing Formula: Ga2P2 (4 structures)
+=========================================================
+Energy distance: 0.011577129364013672
+Wyckoff RMSE: 0.21567015923498073
+Wyckoff MAE: 0.17227079416666666
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 9.574859510757921
+Chamfer distance: 4.008152048088246
+Hausdorff distance: 4.145699584183449
+Superpose RMSD: 1.397535392217162
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.30236551695903496
+XRD Euclidean Distance: 1.9067077342190712
+OFM Euclidean Distance: 0.07031406224861708
+=========================================================
+=========================================================
+Energy distance: 0.011575698852539062
+Wyckoff RMSE: 0.3399674784112021
+Wyckoff MAE: 0.28561540999999996
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 8.427146080613038
+Chamfer distance: 3.710774381234077
+Hausdorff distance: 2.355243941033423
+Superpose RMSD: 1.3409828630863636
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.3159043430768137
+XRD Euclidean Distance: 1.9461194752358857
+OFM Euclidean Distance: 0.07454691357844222
+=========================================================
+=========================================================
+Energy distance: 0.01156473159790039
+Wyckoff RMSE: 0.3983115392346043
+Wyckoff MAE: 0.2996080933333333
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 6.8176062160757755
+Chamfer distance: 3.2243541489562153
+Hausdorff distance: 2.265468208896936
+Superpose RMSD: 0.9815727550760801
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.313905303676334
+XRD Euclidean Distance: 1.9490800108158786
+OFM Euclidean Distance: 0.07135410586634129
+=========================================================
+=========================================================
+Energy distance: 0.01159811019897461
+Wyckoff RMSE: 0.4438414169312096
+Wyckoff MAE: 0.38641596249999993
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 10.935673100490451
+Chamfer distance: 4.886001448017278
+Hausdorff distance: 4.1322942969091665
+Superpose RMSD: 1.4964535570493942
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.31165843950032346
+XRD Euclidean Distance: 1.8981252966704045
+OFM Euclidean Distance: 0.07013548450697835
+=========================================================
+
+>>> Processing Formula: CaCd2P2 (5 structures)
+=========================================================
+Energy distance: 0.023308277130126953
+Wyckoff RMSE: 0.4958979523534979
+Wyckoff MAE: 0.3553787726666667
+RMS Distance: 0.23881741374969653
+Anonymous RMS Distance: 0.23881741374969653
+Sinkhorn distance: 17.91748602124465
+Chamfer distance: 5.118586846233953
+Hausdorff distance: 6.94368098800954
+Superpose RMSD: 1.7159692280760956
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.0241304838249286
+XRD Euclidean Distance: 1.3686294772516405
+OFM Euclidean Distance: 0.20192550863261993
+=========================================================
+=========================================================
+Energy distance: 0.0231170654296875
+Wyckoff RMSE: 0.4959984198779669
+Wyckoff MAE: 0.3552222119999999
+RMS Distance: 0.23733116409671234
+Anonymous RMS Distance: 0.23733116409671234
+Sinkhorn distance: 17.963597998313247
+Chamfer distance: 5.124437313967288
+Hausdorff distance: 6.957976989482894
+Superpose RMSD: 1.7161093065242705
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.0174216815353814
+XRD Euclidean Distance: 1.2878018968916565
+OFM Euclidean Distance: 0.2063469919362391
+=========================================================
+=========================================================
+Energy distance: 0.023308515548706055
+Wyckoff RMSE: 0.49588102555269187
+Wyckoff MAE: 0.3554100966666666
+RMS Distance: 0.23807884126910123
+Anonymous RMS Distance: 0.23807884126910123
+Sinkhorn distance: 17.996798437081672
+Chamfer distance: 5.141258949060086
+Hausdorff distance: 6.978575285349428
+Superpose RMSD: 1.7167095931762446
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.0291563782605644
+XRD Euclidean Distance: 1.314109508509177
+OFM Euclidean Distance: 0.20417915447348614
+=========================================================
+=========================================================
+Energy distance: 0.023057222366333008
+Wyckoff RMSE: 0.4958067780343625
+Wyckoff MAE: 0.35517628333333334
+RMS Distance: 0.23831045278674637
+Anonymous RMS Distance: 0.23831045278674637
+Sinkhorn distance: 17.908087620177735
+Chamfer distance: 5.115022345057648
+Hausdorff distance: 6.940620518068797
+Superpose RMSD: 1.4322686759864673
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.0263060649526752
+XRD Euclidean Distance: 1.367482020280133
+OFM Euclidean Distance: 0.2033970524618677
+=========================================================
+=========================================================
+Energy distance: 0.02305006980895996
+Wyckoff RMSE: 0.4958552057056294
+Wyckoff MAE: 0.35534349066666665
+RMS Distance: 0.23838933311429783
+Anonymous RMS Distance: 0.23838933311429783
+Sinkhorn distance: 17.946707887775194
+Chamfer distance: 5.128096705962921
+Hausdorff distance: 6.956376293191805
+Superpose RMSD: 1.432872381844892
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.0270346415797038
+XRD Euclidean Distance: 1.3637839234811033
+OFM Euclidean Distance: 0.20353782117130376
+=========================================================
+
+>>> Processing Formula: KAs4IO6 (4 structures)
+=========================================================
+Energy distance: 0.0018749237060546875
+Wyckoff RMSE: 0.41249560410335606
+Wyckoff MAE: 0.2762513322222222
+RMS Distance: 0.00781431648648581
+Anonymous RMS Distance: 0.00781431648648581
+Sinkhorn distance: 12.602803230063923
+Chamfer distance: 1.4027508739967351
+Hausdorff distance: 3.820106572391743
+Superpose RMSD: 1.0452950875078573
+Graph Edit Distance: 12.0
+Fingerprint Distance: 0.09773641398315758
+XRD Euclidean Distance: 0.879985605927569
+OFM Euclidean Distance: 0.008341839665378076
+=========================================================
+=========================================================
+Energy distance: 0.09724235534667969
+Wyckoff RMSE: 0.3878400229815592
+Wyckoff MAE: 0.30334997583333334
+RMS Distance: 0.5170838581032517
+Anonymous RMS Distance: 0.5170838581032517
+Sinkhorn distance: 52.306843285845304
+Chamfer distance: 6.039035593112629
+Hausdorff distance: 5.260578928223092
+Superpose RMSD: 1.5734239449944463
+Graph Edit Distance: 13.0
+Fingerprint Distance: 1.816342511280457
+XRD Euclidean Distance: 1.267114259357107
+OFM Euclidean Distance: 0.4356302365299871
+=========================================================
+=========================================================
+Energy distance: 0.09732675552368164
+Wyckoff RMSE: 0.40397193484260124
+Wyckoff MAE: 0.3259943011111111
+RMS Distance: None
+Anonymous RMS Distance: 0.5930504322755392
+Sinkhorn distance: 46.38350996221371
+Chamfer distance: 5.341088731936136
+Hausdorff distance: 7.1292759641611045
+Superpose RMSD: 1.79987637314086
+Graph Edit Distance: 13.0
+Fingerprint Distance: 1.9490035702969386
+XRD Euclidean Distance: 1.182406207969897
+OFM Euclidean Distance: 0.44890972886106995
+=========================================================
+=========================================================
+Energy distance: 0.08618307113647461
+Wyckoff RMSE: 0.4664406224470108
+Wyckoff MAE: 0.3719375099999999
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 32.580814664681974
+Chamfer distance: 4.2135313724697365
+Hausdorff distance: 4.549334544499055
+Superpose RMSD: 1.5786046917734013
+Graph Edit Distance: 13.0
+Fingerprint Distance: 1.8182216007486056
+XRD Euclidean Distance: 1.1763920214812982
+OFM Euclidean Distance: 0.4307751373097652
+=========================================================
+
+>>> Processing Formula: Fe2Cu6SnS8 (1 structures)
+=========================================================
+Energy distance: 0.08090019226074219
+Wyckoff RMSE: 0.4273449757797538
+Wyckoff MAE: 0.33651803196078434
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 51.616111550598596
+Chamfer distance: 4.553337064347558
+Hausdorff distance: 6.043527812617584
+Superpose RMSD: 1.6349372823415318
+Graph Edit Distance: 40.0
+Fingerprint Distance: 1.5133726600124833
+XRD Euclidean Distance: 1.385313374194184
+OFM Euclidean Distance: 0.23590621546938872
+=========================================================
+
+>>> Processing Formula: La2Zn2Sb2O2 (4 structures)
+=========================================================
+Energy distance: 0.06074047088623047
+Wyckoff RMSE: 0.4851168306977075
+Wyckoff MAE: 0.40014816375
+RMS Distance: 0.43125980366147343
+Anonymous RMS Distance: 0.4163895319135346
+Sinkhorn distance: 25.884680723156475
+Chamfer distance: 4.926120295363628
+Hausdorff distance: 5.418182730923133
+Superpose RMSD: 1.6824323059596302
+Graph Edit Distance: 2.0
+Fingerprint Distance: 1.1023962854115068
+XRD Euclidean Distance: 1.6230675252796773
+OFM Euclidean Distance: 0.2851024947288066
+=========================================================
+=========================================================
+Energy distance: 0.060425758361816406
+Wyckoff RMSE: 0.48509592027043696
+Wyckoff MAE: 0.40010110916666664
+RMS Distance: 0.43096111405276605
+Anonymous RMS Distance: 0.4160012043783768
+Sinkhorn distance: 25.898339373585884
+Chamfer distance: 4.927484601565316
+Hausdorff distance: 5.417393402295578
+Superpose RMSD: 1.558928382153474
+Graph Edit Distance: 2.0
+Fingerprint Distance: 1.1030251639131294
+XRD Euclidean Distance: 1.6242786335687942
+OFM Euclidean Distance: 0.2854628333725226
+=========================================================
+=========================================================
+Energy distance: 0.05937671661376953
+Wyckoff RMSE: 0.48518741215195715
+Wyckoff MAE: 0.40017190875
+RMS Distance: 0.4304330637678632
+Anonymous RMS Distance: 0.41580246464452475
+Sinkhorn distance: 25.942865309840766
+Chamfer distance: 4.9331023346057785
+Hausdorff distance: 5.435578788470206
+Superpose RMSD: 1.606216454116451
+Graph Edit Distance: 2.0
+Fingerprint Distance: 1.1081716840292892
+XRD Euclidean Distance: 1.6185157148136853
+OFM Euclidean Distance: 0.2875187227113819
+=========================================================
+=========================================================
+Energy distance: 0.05955696105957031
+Wyckoff RMSE: 0.4851822537348644
+Wyckoff MAE: 0.4001366425
+RMS Distance: 0.4303614275566662
+Anonymous RMS Distance: 0.4303614275566662
+Sinkhorn distance: 25.9173677599805
+Chamfer distance: 4.92981154725487
+Hausdorff distance: 5.429648868734564
+Superpose RMSD: 1.561184342142618
+Graph Edit Distance: 2.0
+Fingerprint Distance: 1.1103664298697309
+XRD Euclidean Distance: 1.6108008719608504
+OFM Euclidean Distance: 0.2864589159552883
+=========================================================
+
+>>> Processing Formula: ErSi2Au2 (4 structures)
+=========================================================
+Energy distance: 0.005417346954345703
+Wyckoff RMSE: 0.5160829383810237
+Wyckoff MAE: 0.333768388
+RMS Distance: 0.002447389258667105
+Anonymous RMS Distance: 0.002447389258667105
+Sinkhorn distance: 6.574582877664191
+Chamfer distance: 1.347089354367827
+Hausdorff distance: 3.240672960419767
+Superpose RMSD: 1.0911611306402018
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.08060517452454315
+XRD Euclidean Distance: 1.5171896774011882
+OFM Euclidean Distance: 0.030400134603220753
+=========================================================
+=========================================================
+Energy distance: 0.004800319671630859
+Wyckoff RMSE: 0.5160874643366178
+Wyckoff MAE: 0.3333050559999999
+RMS Distance: 0.0013527371883615183
+Anonymous RMS Distance: 0.0013527371883615183
+Sinkhorn distance: 6.5242986898493704
+Chamfer distance: 1.3163023850174747
+Hausdorff distance: 3.2124679126858595
+Superpose RMSD: 1.0914507066727623
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.04992358420474017
+XRD Euclidean Distance: 1.315378492092012
+OFM Euclidean Distance: 0.023538615042736705
+=========================================================
+=========================================================
+Energy distance: 0.005413532257080078
+Wyckoff RMSE: 0.5161633257795458
+Wyckoff MAE: 0.3336719153333333
+RMS Distance: 0.0022000289988226337
+Anonymous RMS Distance: 0.0022000289988226337
+Sinkhorn distance: 6.578140703859422
+Chamfer distance: 1.3495687148403221
+Hausdorff distance: 3.2409090296458034
+Superpose RMSD: 1.0908386056110408
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.08285389696140683
+XRD Euclidean Distance: 1.4908259649516944
+OFM Euclidean Distance: 0.0313830034700874
+=========================================================
+=========================================================
+Energy distance: 0.005524158477783203
+Wyckoff RMSE: 0.2580903510858549
+Wyckoff MAE: 0.134025868
+RMS Distance: 0.0025803705068032836
+Anonymous RMS Distance: 0.0025803705068032836
+Sinkhorn distance: 0.15015372715559708
+Chamfer distance: 0.06006149086223883
+Hausdorff distance: 0.04559667282205012
+Superpose RMSD: 0.02104260864315931
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.08904335710648378
+XRD Euclidean Distance: 1.5265160973003076
+OFM Euclidean Distance: 0.03532711079426496
+=========================================================
+
+>>> Processing Formula: K2NaAlH6 (5 structures)
+=========================================================
+Energy distance: 0.0003216266632080078
+Wyckoff RMSE: 0.4840222049246524
+Wyckoff MAE: 0.3503183756666666
+RMS Distance: 0.002636905442033627
+Anonymous RMS Distance: 0.002636905442033627
+Sinkhorn distance: 5.383446763704362
+Chamfer distance: 0.7279067807711808
+Hausdorff distance: 3.508940351197577
+Superpose RMSD: 1.0567487159433062
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.11274344525105573
+XRD Euclidean Distance: 0.30465702567550196
+OFM Euclidean Distance: 0.0018286868165272889
+=========================================================
+=========================================================
+Energy distance: 0.0001533031463623047
+Wyckoff RMSE: 0.4841996208674176
+Wyckoff MAE: 0.3503173640000001
+RMS Distance: 0.0011636890807106422
+Anonymous RMS Distance: 0.0011636890807106422
+Sinkhorn distance: 5.3718982184496085
+Chamfer distance: 0.7257384901668241
+Hausdorff distance: 3.509752793483384
+Superpose RMSD: 1.0569390163866574
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.1096542452548481
+XRD Euclidean Distance: 0.4204627718808698
+OFM Euclidean Distance: 0.0012187651218886074
+=========================================================
+=========================================================
+Energy distance: 0.00013566017150878906
+Wyckoff RMSE: 0.48417604493439376
+Wyckoff MAE: 0.3502893743333334
+RMS Distance: 0.001139698192991219
+Anonymous RMS Distance: 0.001139698192991219
+Sinkhorn distance: 5.392027500564843
+Chamfer distance: 0.7306791521643772
+Hausdorff distance: 3.508082910025704
+Superpose RMSD: 1.0574338992175043
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10947321653177734
+XRD Euclidean Distance: 0.6143187412985577
+OFM Euclidean Distance: 0.00118582420238032
+=========================================================
+=========================================================
+Energy distance: 0.00026702880859375
+Wyckoff RMSE: 0.48410315449845265
+Wyckoff MAE: 0.35030192066666666
+RMS Distance: 0.002035006750830616
+Anonymous RMS Distance: 0.002035006750830616
+Sinkhorn distance: 5.3623940898195945
+Chamfer distance: 0.7229359605612365
+Hausdorff distance: 3.5102698708281643
+Superpose RMSD: 1.0563639990077767
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.11092079032491652
+XRD Euclidean Distance: 0.1505703495392722
+OFM Euclidean Distance: 0.0015995726540544326
+=========================================================
+=========================================================
+Energy distance: 0.0003345012664794922
+Wyckoff RMSE: 0.48402240637713245
+Wyckoff MAE: 0.35032133466666665
+RMS Distance: 0.002736942388658075
+Anonymous RMS Distance: 0.002736942388658075
+Sinkhorn distance: 5.395288201026763
+Chamfer distance: 0.7303203853580139
+Hausdorff distance: 3.5090551002953125
+Superpose RMSD: 1.0571358470981778
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.11222249898692457
+XRD Euclidean Distance: 0.4751813869554893
+OFM Euclidean Distance: 0.00215762516193177
+=========================================================
+
+>>> Processing Formula: Ba2PrSbO6 (5 structures)
+=========================================================
+Energy distance: 0.006261348724365234
+Wyckoff RMSE: 0.38827093355234993
+Wyckoff MAE: 0.3166304313333333
+RMS Distance: 0.08364642043698974
+Anonymous RMS Distance: 0.08364642043698974
+Sinkhorn distance: 8.341106432408008
+Chamfer distance: 1.3038372379199634
+Hausdorff distance: 3.758653580634905
+Superpose RMSD: 1.170782999250322
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.1613559796794553
+XRD Euclidean Distance: 0.5783479911564536
+OFM Euclidean Distance: 0.17381051805386702
+=========================================================
+=========================================================
+Energy distance: 0.006197452545166016
+Wyckoff RMSE: 0.3882346640859738
+Wyckoff MAE: 0.31619204733333334
+RMS Distance: 0.08055952501410002
+Anonymous RMS Distance: 0.08055952501410002
+Sinkhorn distance: 8.290113937409107
+Chamfer distance: 1.292857101311934
+Hausdorff distance: 3.7623118564376123
+Superpose RMSD: 1.1704212612817289
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.122404771514556
+XRD Euclidean Distance: 0.4203354784445068
+OFM Euclidean Distance: 0.17046546414403776
+=========================================================
+=========================================================
+Energy distance: 0.006260395050048828
+Wyckoff RMSE: 0.3881348977414942
+Wyckoff MAE: 0.3167110673333334
+RMS Distance: 0.08512452754611533
+Anonymous RMS Distance: 0.08512452754611533
+Sinkhorn distance: 8.37267884651294
+Chamfer distance: 1.3105252423800606
+Hausdorff distance: 3.7636965094297947
+Superpose RMSD: 1.1726698311273827
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.1712387058859575
+XRD Euclidean Distance: 0.460290570776887
+OFM Euclidean Distance: 0.17614383990625057
+=========================================================
+=========================================================
+Energy distance: 0.0062255859375
+Wyckoff RMSE: 0.38820783924482294
+Wyckoff MAE: 0.31665306200000004
+RMS Distance: 0.08407888083429173
+Anonymous RMS Distance: 0.08407888083429173
+Sinkhorn distance: 8.350191548591559
+Chamfer distance: 1.3060185551356507
+Hausdorff distance: 3.7594485164208553
+Superpose RMSD: 1.170942203715642
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.1666291857821194
+XRD Euclidean Distance: 0.46694637269636696
+OFM Euclidean Distance: 0.17533684401591823
+=========================================================
+=========================================================
+Energy distance: 0.006209373474121094
+Wyckoff RMSE: 0.3881626464087594
+Wyckoff MAE: 0.3162632183333333
+RMS Distance: 0.08197859180569898
+Anonymous RMS Distance: 0.08197859180569898
+Sinkhorn distance: 8.323869231887276
+Chamfer distance: 1.3002719682223556
+Hausdorff distance: 3.765457505341911
+Superpose RMSD: 1.172394302757622
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.136255144481791
+XRD Euclidean Distance: 0.41465847855744037
+OFM Euclidean Distance: 0.1720719145682253
+=========================================================
+
+>>> Processing Formula: Lu2Se2O6F2 (4 structures)
+=========================================================
+Energy distance: 0.011734962463378906
+Wyckoff RMSE: 0.28973179769001933
+Wyckoff MAE: 0.23626758833333333
+RMS Distance: 0.188108579206786
+Anonymous RMS Distance: 0.188108579206786
+Sinkhorn distance: 35.66155351824621
+Chamfer distance: 4.681236941884535
+Hausdorff distance: 5.244997353494962
+Superpose RMSD: 1.3391858998376243
+Graph Edit Distance: 12.0
+Fingerprint Distance: 0.47265180068011264
+XRD Euclidean Distance: 0.5982184686051637
+OFM Euclidean Distance: 0.035901567895980424
+=========================================================
+=========================================================
+Energy distance: 0.032444000244140625
+Wyckoff RMSE: 0.3654883526787537
+Wyckoff MAE: 0.28918484055555554
+RMS Distance: 0.4688381618034223
+Anonymous RMS Distance: 0.4688381618034223
+Sinkhorn distance: 28.372538722491527
+Chamfer distance: 3.952354461142552
+Hausdorff distance: 3.595966510742538
+Superpose RMSD: 1.35875831766628
+Graph Edit Distance: 6.0
+Fingerprint Distance: 0.947229552929504
+XRD Euclidean Distance: 0.9127842407152614
+OFM Euclidean Distance: 0.11514815133491797
+=========================================================
+=========================================================
+Energy distance: 0.04632377624511719
+Wyckoff RMSE: 0.38730238285125523
+Wyckoff MAE: 0.3091835222222222
+RMS Distance: 0.40635459930419743
+Anonymous RMS Distance: 0.40635459930419743
+Sinkhorn distance: 21.26943556341874
+Chamfer distance: 3.140589147568358
+Hausdorff distance: 3.102970526491932
+Superpose RMSD: 1.3652248601427044
+Graph Edit Distance: 22.0
+Fingerprint Distance: 0.9740995093681092
+XRD Euclidean Distance: 0.8941080311805886
+OFM Euclidean Distance: 0.07985906636736896
+=========================================================
+=========================================================
+Energy distance: 0.04751777648925781
+Wyckoff RMSE: 0.4077673914304173
+Wyckoff MAE: 0.3284179866666667
+RMS Distance: 0.5257675867890306
+Anonymous RMS Distance: 0.4982772746480737
+Sinkhorn distance: 21.305195579901657
+Chamfer distance: 3.2154282654465987
+Hausdorff distance: 3.295348902357653
+Superpose RMSD: 1.1775457411033916
+Graph Edit Distance: 10.0
+Fingerprint Distance: 1.9164664874802306
+XRD Euclidean Distance: 0.8790703728156517
+OFM Euclidean Distance: 0.05981610463075802
+=========================================================
+
+>>> Processing Formula: La2Mn2Sb2O2 (5 structures)
+=========================================================
+Energy distance: 0.0011444091796875
+Wyckoff RMSE: 0.48504930448674033
+Wyckoff MAE: 0.39758817583333333
+RMS Distance: 0.0009891524429784368
+Anonymous RMS Distance: 0.0009891524429784368
+Sinkhorn distance: 21.404848887791307
+Chamfer distance: 3.2005995776106593
+Hausdorff distance: 3.0540893402554907
+Superpose RMSD: 1.5541338090351022
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.012623015831594133
+XRD Euclidean Distance: 0.11839533983144748
+OFM Euclidean Distance: 0.0020544940033108915
+=========================================================
+=========================================================
+Energy distance: 0.0011262893676757812
+Wyckoff RMSE: 0.5472691120781475
+Wyckoff MAE: 0.39761051875000003
+RMS Distance: 0.0007650329964486702
+Anonymous RMS Distance: 0.0007650329964486702
+Sinkhorn distance: 23.37160435200378
+Chamfer distance: 3.403813321385926
+Hausdorff distance: 3.055933777317727
+Superpose RMSD: 1.577748151948927
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.009656311202334282
+XRD Euclidean Distance: 0.13638776311609174
+OFM Euclidean Distance: 0.0012770978157440795
+=========================================================
+=========================================================
+Energy distance: 0.0009398460388183594
+Wyckoff RMSE: 0.48502252965248016
+Wyckoff MAE: 0.3975806858333333
+RMS Distance: 0.0003421957242959445
+Anonymous RMS Distance: 0.0003421957242959445
+Sinkhorn distance: 21.43534465940756
+Chamfer distance: 3.2046106678512514
+Hausdorff distance: 3.0499215907487303
+Superpose RMSD: 1.5534537660255139
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.011633622838931285
+XRD Euclidean Distance: 0.1336638266014321
+OFM Euclidean Distance: 0.0014668418512619298
+=========================================================
+=========================================================
+Energy distance: 0.00012445449829101562
+Wyckoff RMSE: 0.5077718269187427
+Wyckoff MAE: 0.35597826291666673
+RMS Distance: 0.0009588955492091866
+Anonymous RMS Distance: 0.0009588955492091866
+Sinkhorn distance: 17.74111668846752
+Chamfer distance: 2.6386769097465206
+Hausdorff distance: 2.833871391446427
+Superpose RMSD: 1.680921588421566
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.013209160854923496
+XRD Euclidean Distance: 0.16197555742938213
+OFM Euclidean Distance: 0.001436716769163933
+=========================================================
+=========================================================
+Energy distance: 0.0011343955993652344
+Wyckoff RMSE: 0.5473305718358
+Wyckoff MAE: 0.3976599579166667
+RMS Distance: 0.0006539477515678484
+Anonymous RMS Distance: 0.0006539477515678484
+Sinkhorn distance: 12.321333987689899
+Chamfer distance: 2.4664650944492212
+Hausdorff distance: 4.951240752469933
+Superpose RMSD: 1.4416632361460386
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.016185594501191107
+XRD Euclidean Distance: 0.21154841927001033
+OFM Euclidean Distance: 0.001546992415804574
+=========================================================
+
+>>> Processing Formula: Sn4S4 (1 structures)
+=========================================================
+Energy distance: 0.00018835067749023438
+Wyckoff RMSE: 0.39127315057108064
+Wyckoff MAE: 0.31810373666666664
+RMS Distance: 0.34616930295658027
+Anonymous RMS Distance: 0.34616930295658027
+Sinkhorn distance: 22.24931885518111
+Chamfer distance: 4.174480970539481
+Hausdorff distance: 4.463622868040212
+Superpose RMSD: 1.8929114349674232
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.42410657920622036
+XRD Euclidean Distance: 0.919713139834171
+OFM Euclidean Distance: 0.02833458120750816
+=========================================================
+
+>>> Processing Formula: Ba2EuTaO6 (5 structures)
+=========================================================
+Energy distance: 0.004443168640136719
+Wyckoff RMSE: 0.47852801215168134
+Wyckoff MAE: 0.37230214366666664
+RMS Distance: 0.061665284331977384
+Anonymous RMS Distance: 0.061665284331977384
+Sinkhorn distance: 66.59251708075064
+Chamfer distance: 9.117620298602949
+Hausdorff distance: 10.60511666656145
+Superpose RMSD: 1.3461445523914637
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.8926086798421358
+XRD Euclidean Distance: 0.5230150667710687
+OFM Euclidean Distance: 0.10314245635965968
+=========================================================
+=========================================================
+Energy distance: 0.004548072814941406
+Wyckoff RMSE: 0.4784934386875061
+Wyckoff MAE: 0.372373428
+RMS Distance: 0.06467927203653458
+Anonymous RMS Distance: 0.06467927203653458
+Sinkhorn distance: 66.09562184980862
+Chamfer distance: 9.127382481918001
+Hausdorff distance: 10.615998167728494
+Superpose RMSD: 1.319125742880869
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.9232902646880334
+XRD Euclidean Distance: 0.4967256883103201
+OFM Euclidean Distance: 0.1075723798336719
+=========================================================
+=========================================================
+Energy distance: 0.004487037658691406
+Wyckoff RMSE: 0.47849717866174407
+Wyckoff MAE: 0.3723040140000001
+RMS Distance: 0.06243850283272847
+Anonymous RMS Distance: 0.06243850283272847
+Sinkhorn distance: 66.61223472641322
+Chamfer distance: 9.115585595710055
+Hausdorff distance: 10.598771840421534
+Superpose RMSD: 1.076649615141421
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.9021490447871044
+XRD Euclidean Distance: 0.6028765095802356
+OFM Euclidean Distance: 0.10299985426288004
+=========================================================
+=========================================================
+Energy distance: 0.004410743713378906
+Wyckoff RMSE: 0.4800920196360523
+Wyckoff MAE: 0.40858022166666663
+RMS Distance: 0.06121040957826127
+Anonymous RMS Distance: 0.06121040957826127
+Sinkhorn distance: 64.99232984952107
+Chamfer distance: 9.406355943867862
+Hausdorff distance: 8.61759464103486
+Superpose RMSD: 1.4962858455135835
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.897063152440927
+XRD Euclidean Distance: 0.39564604020397587
+OFM Euclidean Distance: 0.10642899194375202
+=========================================================
+=========================================================
+Energy distance: 0.00455474853515625
+Wyckoff RMSE: 0.49990478871541355
+Wyckoff MAE: 0.40248873599999996
+RMS Distance: 0.06413721767061618
+Anonymous RMS Distance: 0.06413721767061618
+Sinkhorn distance: 27.957388809891814
+Chamfer distance: 4.326205203229842
+Hausdorff distance: 4.825792359492347
+Superpose RMSD: 1.5960372517806423
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.9246008846535939
+XRD Euclidean Distance: 0.6242841310130253
+OFM Euclidean Distance: 0.10688982670722706
+=========================================================
+
+>>> Processing Formula: MgV4SnO12 (4 structures)
+=========================================================
+Energy distance: 0.03710603713989258
+Wyckoff RMSE: 5555
+Wyckoff MAE: 5555
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 56.38606248959235
+Chamfer distance: 5.032480475135367
+Hausdorff distance: 6.022709145789615
+Superpose RMSD: 2.1549357128803126
+Graph Edit Distance: 106.0
+Fingerprint Distance: 1.871202806380778
+XRD Euclidean Distance: 0.8812563555539464
+OFM Euclidean Distance: 0.21334619828666782
+=========================================================
+=========================================================
+Energy distance: 0.01337432861328125
+Wyckoff RMSE: 5555
+Wyckoff MAE: 5555
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 45.98849793240513
+Chamfer distance: 4.587297268142434
+Hausdorff distance: 6.813402439635658
+Superpose RMSD: 2.1825030374791563
+Graph Edit Distance: 107.0
+Fingerprint Distance: 1.9049061517376247
+XRD Euclidean Distance: 0.8641247618122406
+OFM Euclidean Distance: 0.12746535719465846
+=========================================================
+=========================================================
+Energy distance: 0.0041351318359375
+Wyckoff RMSE: 5555
+Wyckoff MAE: 5555
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 59.26688433725636
+Chamfer distance: 4.911229205022039
+Hausdorff distance: 6.8581488032805495
+Superpose RMSD: 2.002992176399988
+Graph Edit Distance: 105.0
+Fingerprint Distance: 1.2717553147029654
+XRD Euclidean Distance: 0.8697814366812319
+OFM Euclidean Distance: 0.1436614159315693
+=========================================================
+=========================================================
+Energy distance: 0.009996891021728516
+Wyckoff RMSE: 5555
+Wyckoff MAE: 5555
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 57.74015394864021
+Chamfer distance: 5.5912761604293415
+Hausdorff distance: 7.171699729111422
+Superpose RMSD: 1.9684059706501456
+Graph Edit Distance: 103.0
+Fingerprint Distance: 1.3368667958001372
+XRD Euclidean Distance: 0.831999408269514
+OFM Euclidean Distance: 0.1358483465504978
+=========================================================
+
+>>> Processing Formula: LiGaSi (4 structures)
+=========================================================
+Energy distance: 0.009360313415527344
+Wyckoff RMSE: 0.4734866567926069
+Wyckoff MAE: 0.36087382444444444
+RMS Distance: 0.32287059009409425
+Anonymous RMS Distance: 0.0003725511193811216
+Sinkhorn distance: 12.932554270540274
+Chamfer distance: 6.504591664652866
+Hausdorff distance: 5.857367006362448
+Superpose RMSD: 2.075203416909898
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.007965929737779423
+XRD Euclidean Distance: 1.2333553577088165
+OFM Euclidean Distance: 0.09401016611265339
+=========================================================
+=========================================================
+Energy distance: 0.009050607681274414
+Wyckoff RMSE: 0.46420317354072244
+Wyckoff MAE: 0.36115792999999996
+RMS Distance: 0.322996461868956
+Anonymous RMS Distance: 0.0025990970444785652
+Sinkhorn distance: 9.913039072695486
+Chamfer distance: 6.235356985293823
+Hausdorff distance: 4.6948705434447415
+Superpose RMSD: 3.179167311090186
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.0316817899625397
+XRD Euclidean Distance: 1.144948925143909
+OFM Euclidean Distance: 0.09606943185750527
+=========================================================
+=========================================================
+Energy distance: 0.008619070053100586
+Wyckoff RMSE: 0.46480058973886484
+Wyckoff MAE: 0.3622527744444444
+RMS Distance: 0.3223691194891069
+Anonymous RMS Distance: 0.0011067455496867283
+Sinkhorn distance: 9.908166536098717
+Chamfer distance: 6.2266351648320795
+Hausdorff distance: 4.681627136467579
+Superpose RMSD: 2.0759055229951713
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.014225869029233802
+XRD Euclidean Distance: 1.0439013544739775
+OFM Euclidean Distance: 0.09393511428020154
+=========================================================
+=========================================================
+Energy distance: 0.00927591323852539
+Wyckoff RMSE: 0.5052106726101482
+Wyckoff MAE: 0.3821456366666666
+RMS Distance: 0.3232057066446957
+Anonymous RMS Distance: 0.0013087673175169543
+Sinkhorn distance: 10.415957772293416
+Chamfer distance: 6.610710808588715
+Hausdorff distance: 4.928567985514894
+Superpose RMSD: 2.074296938222416
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.01484403513860575
+XRD Euclidean Distance: 1.2309799982833336
+OFM Euclidean Distance: 0.09289846795409189
+=========================================================
+
+>>> Processing Formula: Li2NiO2 (4 structures)
+=========================================================
+Energy distance: 0.003196239471435547
+Wyckoff RMSE: 0.4007613098994604
+Wyckoff MAE: 0.3028180266666667
+RMS Distance: 0.3125161845418176
+Anonymous RMS Distance: 0.3125161845418176
+Sinkhorn distance: 6.62497531116109
+Chamfer distance: 2.4574574795799977
+Hausdorff distance: 1.6183551490213235
+Superpose RMSD: 0.8760350828468463
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.9915437373736118
+XRD Euclidean Distance: 1.9194672257704406
+OFM Euclidean Distance: 0.16352618321252355
+=========================================================
+=========================================================
+Energy distance: 0.0030450820922851562
+Wyckoff RMSE: 0.3682191839483987
+Wyckoff MAE: 0.293797892
+RMS Distance: 0.3096011468689587
+Anonymous RMS Distance: 0.3096011468689587
+Sinkhorn distance: 8.216935534665028
+Chamfer distance: 2.4542216899398044
+Hausdorff distance: 2.3164740083181536
+Superpose RMSD: 0.9407142601724586
+Graph Edit Distance: 0.0
+Fingerprint Distance: 2.0025163510875506
+XRD Euclidean Distance: 1.9296507806889054
+OFM Euclidean Distance: 0.16621214069121984
+=========================================================
+=========================================================
+Energy distance: 0.0029320716857910156
+Wyckoff RMSE: 0.4829427490510838
+Wyckoff MAE: 0.4184541293333332
+RMS Distance: 0.3093000383556813
+Anonymous RMS Distance: 0.3093000383556813
+Sinkhorn distance: 5.115564736617477
+Chamfer distance: 2.0208534033830112
+Hausdorff distance: 1.4266522093766458
+Superpose RMSD: 0.8447450957508378
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.99389873529829
+XRD Euclidean Distance: 1.9341324804890088
+OFM Euclidean Distance: 0.16437431360407123
+=========================================================
+=========================================================
+Energy distance: 0.0031304359436035156
+Wyckoff RMSE: 0.30662449831121935
+Wyckoff MAE: 0.253153404
+RMS Distance: 0.31254597382445154
+Anonymous RMS Distance: 0.31254597382445154
+Sinkhorn distance: 9.476447720443502
+Chamfer distance: 3.232093393398932
+Hausdorff distance: 2.3879327160225134
+Superpose RMSD: 0.7086150461191558
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.9941860176401902
+XRD Euclidean Distance: 1.9584313586797188
+OFM Euclidean Distance: 0.1738468845875318
+=========================================================
+
+>>> Processing Formula: Sr2Fe2As2F2 (4 structures)
+=========================================================
+Energy distance: 0.0011730194091796875
+Wyckoff RMSE: 0.4999821040100424
+Wyckoff MAE: 0.3333838058333334
+RMS Distance: 0.0015385188360638954
+Anonymous RMS Distance: 0.0015385188360638954
+Sinkhorn distance: 17.247022572351362
+Chamfer distance: 3.0653655827430235
+Hausdorff distance: 3.7772070831028968
+Superpose RMSD: 1.4676558949611733
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.050179657884676106
+XRD Euclidean Distance: 0.5790315702355702
+OFM Euclidean Distance: 0.006167881787745106
+=========================================================
+=========================================================
+Energy distance: 0.0009369850158691406
+Wyckoff RMSE: 0.5000027763456723
+Wyckoff MAE: 0.33341913791666666
+RMS Distance: 0.0014102184374489043
+Anonymous RMS Distance: 0.0014102184374489043
+Sinkhorn distance: 19.422298033423782
+Chamfer distance: 3.473966181730333
+Hausdorff distance: 3.905937809070142
+Superpose RMSD: 1.2891832756822466
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.07663556768141544
+XRD Euclidean Distance: 0.6543969762158736
+OFM Euclidean Distance: 0.010561947711260613
+=========================================================
+=========================================================
+Energy distance: 0.0015759468078613281
+Wyckoff RMSE: 0.5000542249701908
+Wyckoff MAE: 0.33343937041666666
+RMS Distance: 0.002169360992670445
+Anonymous RMS Distance: 0.002169360992670445
+Sinkhorn distance: 19.44278880647601
+Chamfer distance: 3.4776539596229172
+Hausdorff distance: 3.908024869843271
+Superpose RMSD: 1.2871635001016146
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.05377510641143901
+XRD Euclidean Distance: 0.5225271953959881
+OFM Euclidean Distance: 0.006049622210463874
+=========================================================
+=========================================================
+Energy distance: 0.0006628036499023438
+Wyckoff RMSE: 0.5399999529937747
+Wyckoff MAE: 0.3749626341666667
+RMS Distance: 0.0005510692552989118
+Anonymous RMS Distance: 0.0005510692552989118
+Sinkhorn distance: 19.921073418229565
+Chamfer distance: 3.5147813418569025
+Hausdorff distance: 3.286245755869876
+Superpose RMSD: 1.473403838383703
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.06019427691418853
+XRD Euclidean Distance: 0.546136389642736
+OFM Euclidean Distance: 0.008381609079394349
+=========================================================
+
+>>> Processing Formula: Ge6N8 (1 structures)
+=========================================================
+Energy distance: 0.09870576858520508
+Wyckoff RMSE: 0.4041378787350011
+Wyckoff MAE: 0.34041821119047616
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 28.73310626089389
+Chamfer distance: 3.770121850567562
+Hausdorff distance: 5.289235453798835
+Superpose RMSD: 1.4140520683147135
+Graph Edit Distance: 22.0
+Fingerprint Distance: 2.293475387126483
+XRD Euclidean Distance: 1.9778814282595234
+OFM Euclidean Distance: 0.33384891616373263
+=========================================================
+
+>>> Processing Formula: Zn2C2O6 (3 structures)
+=========================================================
+Energy distance: 0.02931976318359375
+Wyckoff RMSE: 0.3890787215890991
+Wyckoff MAE: 0.3073184113333333
+RMS Distance: 0.34751910289625004
+Anonymous RMS Distance: 0.34751910289625004
+Sinkhorn distance: 17.350180651135787
+Chamfer distance: 3.226879834237099
+Hausdorff distance: 4.682583010286169
+Superpose RMSD: 1.6755676482875064
+Graph Edit Distance: 20.0
+Fingerprint Distance: 2.203071540228097
+XRD Euclidean Distance: 1.5328990333755592
+OFM Euclidean Distance: 0.20050881107560822
+=========================================================
+=========================================================
+Energy distance: 0.020472049713134766
+Wyckoff RMSE: 0.5153075237610036
+Wyckoff MAE: 0.44031519433333344
+RMS Distance: 0.5081185790330022
+Anonymous RMS Distance: 0.4770659456340154
+Sinkhorn distance: 30.009797355406402
+Chamfer distance: 5.378326804708106
+Hausdorff distance: 5.757752107877826
+Superpose RMSD: 1.457074351047716
+Graph Edit Distance: 14.0
+Fingerprint Distance: 1.9924448115259088
+XRD Euclidean Distance: 1.5932575872208985
+OFM Euclidean Distance: 0.1846350876608071
+=========================================================
+=========================================================
+Energy distance: 0.020248889923095703
+Wyckoff RMSE: 0.3146521564217949
+Wyckoff MAE: 0.24676202966666672
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 22.68939576084893
+Chamfer distance: 4.242281953463087
+Hausdorff distance: 5.07862825865701
+Superpose RMSD: 1.555661701016079
+Graph Edit Distance: 20.0
+Fingerprint Distance: 0.2933973102987166
+XRD Euclidean Distance: 1.6382828923047248
+OFM Euclidean Distance: 0.06601381402084885
+=========================================================
+
+>>> Processing Formula: Ba2BiSbO6 (5 structures)
+=========================================================
+Energy distance: 0.00021648406982421875
+Wyckoff RMSE: 0.41515901682389267
+Wyckoff MAE: 0.306159653
+RMS Distance: 0.0052915173750454824
+Anonymous RMS Distance: 0.0052915173750454824
+Sinkhorn distance: 41.82516219845774
+Chamfer distance: 6.636825820042352
+Hausdorff distance: 6.469601730717028
+Superpose RMSD: 1.4389362424882843
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.12786590343853532
+XRD Euclidean Distance: 0.08337795909153836
+OFM Euclidean Distance: 0.00588580781672953
+=========================================================
+=========================================================
+Energy distance: 0.0003924369812011719
+Wyckoff RMSE: 0.41516382246280603
+Wyckoff MAE: 0.30666984766666666
+RMS Distance: 0.0057022457430812796
+Anonymous RMS Distance: 0.0057022457430812796
+Sinkhorn distance: 41.741167481462405
+Chamfer distance: 6.624064233830035
+Hausdorff distance: 6.447881894830474
+Superpose RMSD: 1.4344943613381966
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.12664437118498176
+XRD Euclidean Distance: 0.20437808270409036
+OFM Euclidean Distance: 0.008416222185089457
+=========================================================
+=========================================================
+Energy distance: 0.00021457672119140625
+Wyckoff RMSE: 0.4770998299107582
+Wyckoff MAE: 0.37142558533333336
+RMS Distance: 0.05532736514282028
+Anonymous RMS Distance: 0.05532736514282028
+Sinkhorn distance: 8.190932770982437
+Chamfer distance: 1.2824134180106408
+Hausdorff distance: 3.738522264983782
+Superpose RMSD: 1.161064292387099
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.6340693709670732
+XRD Euclidean Distance: 0.3864796070592062
+OFM Euclidean Distance: 0.007877176723396658
+=========================================================
+=========================================================
+Energy distance: 0.0005679130554199219
+Wyckoff RMSE: 0.4770609365798281
+Wyckoff MAE: 0.3708203193333333
+RMS Distance: 0.05371145700182192
+Anonymous RMS Distance: 0.05371145700182192
+Sinkhorn distance: 8.074724032659066
+Chamfer distance: 1.2540770971035222
+Hausdorff distance: 3.7496337240705606
+Superpose RMSD: 1.1588036327253826
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.622726144120801
+XRD Euclidean Distance: 0.3364072237289261
+OFM Euclidean Distance: 0.01391558146034093
+=========================================================
+=========================================================
+Energy distance: 0.00018072128295898438
+Wyckoff RMSE: 0.4147739371551465
+Wyckoff MAE: 0.30594899166666667
+RMS Distance: 0.004013527945901441
+Anonymous RMS Distance: 0.004013527945901441
+Sinkhorn distance: 41.806751426345684
+Chamfer distance: 6.634712564686883
+Hausdorff distance: 6.464189786729834
+Superpose RMSD: 1.4369112259984975
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.11847333256540386
+XRD Euclidean Distance: 0.06115885508998107
+OFM Euclidean Distance: 0.0031774863144486587
+=========================================================
+
+>>> Processing Formula: KRb2ScF6 (2 structures)
+=========================================================
+Energy distance: 5.054473876953125e-05
+Wyckoff RMSE: 0.4823593519542163
+Wyckoff MAE: 0.3486666623333333
+RMS Distance: 0.0005563665139638054
+Anonymous RMS Distance: 0.0005563665139638054
+Sinkhorn distance: 6.1450985161299885
+Chamfer distance: 0.8366112522575224
+Hausdorff distance: 3.966802816333849
+Superpose RMSD: 1.1975274561754958
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10940524439117448
+XRD Euclidean Distance: 0.49097364630500223
+OFM Euclidean Distance: 0.0016222386791474612
+=========================================================
+=========================================================
+Energy distance: 3.7670135498046875e-05
+Wyckoff RMSE: 0.4823419579346326
+Wyckoff MAE: 0.348637094
+RMS Distance: 0.0007456326484851737
+Anonymous RMS Distance: 0.0007456326484851737
+Sinkhorn distance: 6.103267398216667
+Chamfer distance: 0.8268486245064344
+Hausdorff distance: 3.9696657969081586
+Superpose RMSD: 1.1964949787939432
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10975346756391667
+XRD Euclidean Distance: 0.29323583314330354
+OFM Euclidean Distance: 0.001209096644935901
+=========================================================
+
+>>> Processing Formula: Ba3ZnN2O (1 structures)
+=========================================================
+Energy distance: 0.09967184066772461
+Wyckoff RMSE: 0.46727367818465115
+Wyckoff MAE: 0.394958988095238
+RMS Distance: 0.37736175628258195
+Anonymous RMS Distance: 0.37736175628258195
+Sinkhorn distance: 16.393701162747284
+Chamfer distance: 3.629367195783657
+Hausdorff distance: 3.0884052833523095
+Superpose RMSD: 1.5925385281505355
+Graph Edit Distance: 0.0
+Fingerprint Distance: 2.060594723721097
+XRD Euclidean Distance: 1.3689111156381737
+OFM Euclidean Distance: 0.058544520169228405
+=========================================================
+
+>>> Processing Formula: ZnCdPt2 (1 structures)
+=========================================================
+Energy distance: 0.048564910888671875
+Wyckoff RMSE: 0.5880666083384547
+Wyckoff MAE: 0.5042336366666667
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 14.123580085003084
+Chamfer distance: 5.728754350219233
+Hausdorff distance: 5.183898610545719
+Superpose RMSD: 1.3250736084295611
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.8853387054088043
+XRD Euclidean Distance: 2.1241590293325903
+OFM Euclidean Distance: 0.15394273336033432
+=========================================================
+
+>>> Processing Formula: Ba2YbNbO6 (5 structures)
+=========================================================
+Energy distance: 0.007016181945800781
+Wyckoff RMSE: 0.41264561889180246
+Wyckoff MAE: 0.2787214736666666
+RMS Distance: 0.07244458510603251
+Anonymous RMS Distance: 0.07244458510603251
+Sinkhorn distance: 8.801593273425143
+Chamfer distance: 1.403297146892949
+Hausdorff distance: 3.619759778474285
+Superpose RMSD: 1.2404713312051032
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.1578678581397681
+XRD Euclidean Distance: 0.5981835468290518
+OFM Euclidean Distance: 0.17518078952613228
+=========================================================
+=========================================================
+Energy distance: 0.007401466369628906
+Wyckoff RMSE: 0.3843630173999408
+Wyckoff MAE: 0.28927132333333333
+RMS Distance: 0.0779887746586522
+Anonymous RMS Distance: 0.0779887746586522
+Sinkhorn distance: 49.91128798751547
+Chamfer distance: 6.561312573877027
+Hausdorff distance: 7.429961314041831
+Superpose RMSD: 1.6633461048298541
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.2116429822007466
+XRD Euclidean Distance: 0.27396864135860655
+OFM Euclidean Distance: 0.18528046874144244
+=========================================================
+=========================================================
+Energy distance: 0.007506847381591797
+Wyckoff RMSE: 0.41302074191087246
+Wyckoff MAE: 0.2795361956666667
+RMS Distance: 0.0790054857843523
+Anonymous RMS Distance: 0.0790054857843523
+Sinkhorn distance: 8.917558920262827
+Chamfer distance: 1.4282020355635663
+Hausdorff distance: 3.6166522877967524
+Superpose RMSD: 1.2375413765850514
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.2143790114789064
+XRD Euclidean Distance: 0.4474511018800867
+OFM Euclidean Distance: 0.1850152183116107
+=========================================================
+=========================================================
+Energy distance: 0.004085063934326172
+Wyckoff RMSE: 0.35375698667789124
+Wyckoff MAE: 0.24019101833333334
+RMS Distance: 0.048757355014621605
+Anonymous RMS Distance: 0.048757355014621605
+Sinkhorn distance: 34.58218917275952
+Chamfer distance: 6.145291098526698
+Hausdorff distance: 6.430849544462461
+Superpose RMSD: 1.7565352913332983
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.7253758545423459
+XRD Euclidean Distance: 0.06693982502254407
+OFM Euclidean Distance: 0.12395790825170361
+=========================================================
+=========================================================
+Energy distance: 0.005462646484375
+Wyckoff RMSE: 0.3707931256073686
+Wyckoff MAE: 0.24538204133333333
+RMS Distance: 0.05920302739302692
+Anonymous RMS Distance: 0.05920302739302692
+Sinkhorn distance: 9.552954662553548
+Chamfer distance: 1.3671343690184719
+Hausdorff distance: 3.632264435893816
+Superpose RMSD: 1.2405053564733421
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.9717490918385959
+XRD Euclidean Distance: 0.23051453852318424
+OFM Euclidean Distance: 0.15367636296182183
+=========================================================
+
+>>> Processing Formula: V2Cr2O8 (4 structures)
+=========================================================
+Energy distance: 0.018237590789794922
+Wyckoff RMSE: 0.4086834212468155
+Wyckoff MAE: 0.31936371777777783
+RMS Distance: 0.007123861677635118
+Anonymous RMS Distance: 0.007123861677635118
+Sinkhorn distance: 11.865098390039556
+Chamfer distance: 1.5975795386073015
+Hausdorff distance: 2.1603544473909424
+Superpose RMSD: 1.0386838681798198
+Graph Edit Distance: 12.0
+Fingerprint Distance: 0.11625273759318865
+XRD Euclidean Distance: 1.2068167739071394
+OFM Euclidean Distance: 0.025043893271106833
+=========================================================
+=========================================================
+Energy distance: 0.01020193099975586
+Wyckoff RMSE: 0.4742847719827394
+Wyckoff MAE: 0.3713680736111111
+RMS Distance: 0.42458672448463874
+Anonymous RMS Distance: 0.42458672448463874
+Sinkhorn distance: 24.63971863768119
+Chamfer distance: 3.5573049768829126
+Hausdorff distance: 3.43217016768824
+Superpose RMSD: 1.2807256786150476
+Graph Edit Distance: 16.0
+Fingerprint Distance: 1.665096613902001
+XRD Euclidean Distance: 1.8644627035182708
+OFM Euclidean Distance: 0.3987800638737656
+=========================================================
+=========================================================
+Energy distance: 0.009987354278564453
+Wyckoff RMSE: 0.43296469095287277
+Wyckoff MAE: 0.33581463055555555
+RMS Distance: 0.3612201884714741
+Anonymous RMS Distance: 0.3612201884714741
+Sinkhorn distance: 23.842006583403382
+Chamfer distance: 3.3223821475522053
+Hausdorff distance: 3.09719260544436
+Superpose RMSD: 1.3280486427827056
+Graph Edit Distance: 16.0
+Fingerprint Distance: 1.6860306239652145
+XRD Euclidean Distance: 1.8665934239432997
+OFM Euclidean Distance: 0.3905210928186489
+=========================================================
+=========================================================
+Energy distance: 0.009462833404541016
+Wyckoff RMSE: 0.47074141383511614
+Wyckoff MAE: 0.3817325958333333
+RMS Distance: 0.42825312861577985
+Anonymous RMS Distance: 0.4228857475108018
+Sinkhorn distance: 18.599861489465592
+Chamfer distance: 2.7075145716785887
+Hausdorff distance: 2.8722633996540075
+Superpose RMSD: 1.3138636656896134
+Graph Edit Distance: 10.0
+Fingerprint Distance: 1.6210827347102288
+XRD Euclidean Distance: 1.7920802283739496
+OFM Euclidean Distance: 0.35694627116774746
+=========================================================
+
+>>> Processing Formula: NaPb2IO6 (5 structures)
+=========================================================
+Energy distance: 0.03390693664550781
+Wyckoff RMSE: 0.4409459411302648
+Wyckoff MAE: 0.36054186366666663
+RMS Distance: 0.1428316219263175
+Anonymous RMS Distance: 0.1428316219263175
+Sinkhorn distance: 16.0474981526582
+Chamfer distance: 2.918391138089519
+Hausdorff distance: 4.019220722496695
+Superpose RMSD: 0.997336060614203
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.5105978033602736
+XRD Euclidean Distance: 1.7643430224488128
+OFM Euclidean Distance: 0.46908228483972875
+=========================================================
+=========================================================
+Energy distance: 0.033908843994140625
+Wyckoff RMSE: 0.44057063987154627
+Wyckoff MAE: 0.360245218
+RMS Distance: 0.14279164144467354
+Anonymous RMS Distance: 0.14279164144467354
+Sinkhorn distance: 15.973615320309642
+Chamfer distance: 2.90970239643352
+Hausdorff distance: 4.007643478701513
+Superpose RMSD: 0.9968483285243102
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.5137435402609731
+XRD Euclidean Distance: 1.7578125562413893
+OFM Euclidean Distance: 0.46960408887966276
+=========================================================
+=========================================================
+Energy distance: 0.033664703369140625
+Wyckoff RMSE: 0.3479174134471375
+Wyckoff MAE: 0.2848764073333333
+RMS Distance: 0.1424068161575051
+Anonymous RMS Distance: 0.1424068161575051
+Sinkhorn distance: 14.20214634550092
+Chamfer distance: 2.6298277711908407
+Hausdorff distance: 2.305437974597895
+Superpose RMSD: 1.4005524402765317
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.552598998133462
+XRD Euclidean Distance: 1.4912752633059057
+OFM Euclidean Distance: 0.471244623064332
+=========================================================
+=========================================================
+Energy distance: 0.03375959396362305
+Wyckoff RMSE: 0.34762826351805953
+Wyckoff MAE: 0.28276780166666665
+RMS Distance: 0.1432911815286962
+Anonymous RMS Distance: 0.1432911815286962
+Sinkhorn distance: 14.28118196484439
+Chamfer distance: 2.656433305476298
+Hausdorff distance: 2.2558756674980076
+Superpose RMSD: 1.3780804959521833
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.5120114583460509
+XRD Euclidean Distance: 1.7533367765761991
+OFM Euclidean Distance: 0.4695283079180601
+=========================================================
+=========================================================
+Energy distance: 0.03391599655151367
+Wyckoff RMSE: 0.3477502310547898
+Wyckoff MAE: 0.283588837
+RMS Distance: 0.14466945850448484
+Anonymous RMS Distance: 0.14466945850448484
+Sinkhorn distance: 14.246971205143126
+Chamfer distance: 2.6419272043544315
+Hausdorff distance: 2.2829657885025605
+Superpose RMSD: 1.4014887023360283
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.5454175275165591
+XRD Euclidean Distance: 1.638171411834583
+OFM Euclidean Distance: 0.4752667817766012
+=========================================================
+
+>>> Processing Formula: K2NaAlF6 (5 structures)
+=========================================================
+Energy distance: 2.3365020751953125e-05
+Wyckoff RMSE: 0.48163021146513424
+Wyckoff MAE: 0.34802677766666673
+RMS Distance: 0.0004850971933233194
+Anonymous RMS Distance: 0.0004850971933233194
+Sinkhorn distance: 5.391423789015784
+Chamfer distance: 0.721044200951364
+Hausdorff distance: 3.576703198859358
+Superpose RMSD: 1.0711640469384036
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10952130693841035
+XRD Euclidean Distance: 0.3088471757438795
+OFM Euclidean Distance: 0.0029528121303487157
+=========================================================
+=========================================================
+Energy distance: 1.4781951904296875e-05
+Wyckoff RMSE: 0.48161496846067015
+Wyckoff MAE: 0.34801276600000003
+RMS Distance: 0.0004758338316043589
+Anonymous RMS Distance: 0.0004758338316043589
+Sinkhorn distance: 5.392427545075127
+Chamfer distance: 0.7219040902367381
+Hausdorff distance: 3.5713724443296164
+Superpose RMSD: 1.0715397774623074
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.1095394798647662
+XRD Euclidean Distance: 0.20763235761700513
+OFM Euclidean Distance: 0.0026821928849591506
+=========================================================
+=========================================================
+Energy distance: 2.3365020751953125e-05
+Wyckoff RMSE: 0.4816302132326948
+Wyckoff MAE: 0.3480267793333333
+RMS Distance: 0.00048508874307626995
+Anonymous RMS Distance: 0.00048508874307626995
+Sinkhorn distance: 5.3914236731148275
+Chamfer distance: 0.721044174045596
+Hausdorff distance: 3.5767032456679715
+Superpose RMSD: 1.0711640553364958
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10952140787267226
+XRD Euclidean Distance: 0.3088462077710813
+OFM Euclidean Distance: 0.0029526247885084947
+=========================================================
+=========================================================
+Energy distance: 5.7220458984375e-06
+Wyckoff RMSE: 0.48158525708819044
+Wyckoff MAE: 0.3479878536666666
+RMS Distance: 0.0004298761402863611
+Anonymous RMS Distance: 0.0004298761402863611
+Sinkhorn distance: 5.403475172663051
+Chamfer distance: 0.7246618829061714
+Hausdorff distance: 3.5672189106200833
+Superpose RMSD: 1.0719172762219968
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10962518235445134
+XRD Euclidean Distance: 0.11149554490337305
+OFM Euclidean Distance: 0.002047768688361679
+=========================================================
+=========================================================
+Energy distance: 2.3365020751953125e-05
+Wyckoff RMSE: 0.48163021311366994
+Wyckoff MAE: 0.3480267786666667
+RMS Distance: 0.00048509090323473655
+Anonymous RMS Distance: 0.00048509090323473655
+Sinkhorn distance: 5.391423493375519
+Chamfer distance: 0.7210441634749961
+Hausdorff distance: 3.5767030038457905
+Superpose RMSD: 1.0711640528525206
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.10952138456690276
+XRD Euclidean Distance: 0.30884527200071354
+OFM Euclidean Distance: 0.0029526766357219486
+=========================================================
+
+>>> Processing Formula: KErS2 (4 structures)
+=========================================================
+Energy distance: 0.012711048126220703
+Wyckoff RMSE: 0.32963610803579246
+Wyckoff MAE: 0.25605407583333334
+RMS Distance: 0.20060313656290119
+Anonymous RMS Distance: 0.20060313656290119
+Sinkhorn distance: 14.188442911324815
+Chamfer distance: 6.64069619647954
+Hausdorff distance: 7.538206200930935
+Superpose RMSD: 5.561533252931885
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.5846675699119753
+XRD Euclidean Distance: 1.0238312125026372
+OFM Euclidean Distance: 0.03243014307102653
+=========================================================
+=========================================================
+Energy distance: 0.012727737426757812
+Wyckoff RMSE: 0.3295906137074474
+Wyckoff MAE: 0.2559186941666667
+RMS Distance: 0.20060734796156943
+Anonymous RMS Distance: 0.20060734796156943
+Sinkhorn distance: 14.179013228307907
+Chamfer distance: 6.63599969009103
+Hausdorff distance: 7.536873044987694
+Superpose RMSD: 5.563870854439308
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.5808800585529877
+XRD Euclidean Distance: 1.0244008974135759
+OFM Euclidean Distance: 0.03299139760910908
+=========================================================
+=========================================================
+Energy distance: 0.012816905975341797
+Wyckoff RMSE: 0.32985827567005854
+Wyckoff MAE: 0.25629625000000006
+RMS Distance: 0.20054796164865865
+Anonymous RMS Distance: 0.20054796164865865
+Sinkhorn distance: 14.207676699135929
+Chamfer distance: 6.649493775802247
+Hausdorff distance: 7.543089520260615
+Superpose RMSD: 5.562009221122327
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.5880166824851247
+XRD Euclidean Distance: 1.0260617425386265
+OFM Euclidean Distance: 0.03341779048561761
+=========================================================
+=========================================================
+Energy distance: 0.012684822082519531
+Wyckoff RMSE: 0.3298395855801888
+Wyckoff MAE: 0.2561919308333333
+RMS Distance: 0.2003783008750894
+Anonymous RMS Distance: 0.2003783008750894
+Sinkhorn distance: 14.203319019287171
+Chamfer distance: 6.650743699964302
+Hausdorff distance: 7.548729791486298
+Superpose RMSD: 5.558891582518481
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.5982934522034199
+XRD Euclidean Distance: 1.0033402493298844
+OFM Euclidean Distance: 0.031724479880110866
+=========================================================
+
+>>> Processing Formula: LaCr4Cu3O12 (5 structures)
+=========================================================
+Energy distance: 0.000324249267578125
+Wyckoff RMSE: 5555
+Wyckoff MAE: 5555
+RMS Distance: None
+Anonymous RMS Distance: 0.002419299336057343
+Sinkhorn distance: 36.05619832961998
+Chamfer distance: 3.1873317639199543
+Hausdorff distance: 3.9127362770900254
+Superpose RMSD: 1.5442200676710207
+Graph Edit Distance: 114.0
+Fingerprint Distance: 0.16224154102616847
+XRD Euclidean Distance: 0.2898686148777192
+OFM Euclidean Distance: 0.003795091494549472
+=========================================================
+=========================================================
+Energy distance: 0.0003457069396972656
+Wyckoff RMSE: 5555
+Wyckoff MAE: 5555
+RMS Distance: None
+Anonymous RMS Distance: 0.002006358445950797
+Sinkhorn distance: 34.49274461713133
+Chamfer distance: 3.166564871287136
+Hausdorff distance: 3.9100739333500734
+Superpose RMSD: 1.5342424763880627
+Graph Edit Distance: 114.0
+Fingerprint Distance: 0.1612285036724412
+XRD Euclidean Distance: 0.11621238776208438
+OFM Euclidean Distance: 0.0038481330718346347
+=========================================================
+=========================================================
+Energy distance: 0.000396728515625
+Wyckoff RMSE: 5555
+Wyckoff MAE: 5555
+RMS Distance: None
+Anonymous RMS Distance: 0.0022565114611109607
+Sinkhorn distance: 36.05028208896909
+Chamfer distance: 3.186975748412029
+Hausdorff distance: 3.91664807703165
+Superpose RMSD: 1.5262929603441235
+Graph Edit Distance: 106.0
+Fingerprint Distance: 0.16122967246523034
+XRD Euclidean Distance: 0.060008433339733824
+OFM Euclidean Distance: 0.0029556868674781717
+=========================================================
+=========================================================
+Energy distance: 0.0004143714904785156
+Wyckoff RMSE: 5555
+Wyckoff MAE: 5555
+RMS Distance: None
+Anonymous RMS Distance: 0.0022497865568416866
+Sinkhorn distance: 34.97079276479373
+Chamfer distance: 3.1718752383490205
+Hausdorff distance: 3.9159374782131775
+Superpose RMSD: 1.5161131548879456
+Graph Edit Distance: 106.0
+Fingerprint Distance: 0.16088998526943538
+XRD Euclidean Distance: 0.02599980948501688
+OFM Euclidean Distance: 0.002900888752141479
+=========================================================
+=========================================================
+Energy distance: 0.0004067420959472656
+Wyckoff RMSE: 5555
+Wyckoff MAE: 5555
+RMS Distance: None
+Anonymous RMS Distance: 0.0023697453760754845
+Sinkhorn distance: 36.04862917745393
+Chamfer distance: 3.1877253490864836
+Hausdorff distance: 3.9167254231280313
+Superpose RMSD: 1.5529709710792468
+Graph Edit Distance: 102.0
+Fingerprint Distance: 0.1614304622313616
+XRD Euclidean Distance: 0.028480432843059872
+OFM Euclidean Distance: 0.0029005699643141225
+=========================================================
+
+>>> Processing Formula: K2NaInF6 (2 structures)
+=========================================================
+Energy distance: 0.007508277893066406
+Wyckoff RMSE: 0.4168889727897525
+Wyckoff MAE: 0.3034462386666667
+RMS Distance: 0.1218158728807132
+Anonymous RMS Distance: 0.1218158728807132
+Sinkhorn distance: 37.12483251067272
+Chamfer distance: 6.729691844536186
+Hausdorff distance: 6.55221966324019
+Superpose RMSD: 1.5834714502906195
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.722017786924237
+XRD Euclidean Distance: 0.47006554615677526
+OFM Euclidean Distance: 0.22594482405002622
+=========================================================
+=========================================================
+Energy distance: 0.007412910461425781
+Wyckoff RMSE: 0.45717911508029685
+Wyckoff MAE: 0.3766563253333333
+RMS Distance: 0.12660313232444406
+Anonymous RMS Distance: 0.12660313232444406
+Sinkhorn distance: 36.551677463183026
+Chamfer distance: 6.284653844856516
+Hausdorff distance: 6.528383617319092
+Superpose RMSD: 2.200594969943035
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.7561895668666363
+XRD Euclidean Distance: 0.5433085737426827
+OFM Euclidean Distance: 0.23375884214387238
+=========================================================
+
+>>> Processing Formula: Ce4Sn2S10 (4 structures)
+=========================================================
+Energy distance: 0.006619453430175781
+Wyckoff RMSE: 0.4370287498245556
+Wyckoff MAE: 0.3698395860416666
+RMS Distance: 0.25858993592569435
+Anonymous RMS Distance: 0.25858993592569435
+Sinkhorn distance: 27.650867856220398
+Chamfer distance: 3.103555765940162
+Hausdorff distance: 2.9054784693356672
+Superpose RMSD: 1.465110387483374
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.5069965787139012
+XRD Euclidean Distance: 0.7400597175296739
+OFM Euclidean Distance: 0.16737410049896131
+=========================================================
+=========================================================
+Energy distance: 0.006569385528564453
+Wyckoff RMSE: 0.4370044055467895
+Wyckoff MAE: 0.37004606187499994
+RMS Distance: 0.2585268519821012
+Anonymous RMS Distance: 0.2585268519821012
+Sinkhorn distance: 28.565129355040582
+Chamfer distance: 3.1237940916825857
+Hausdorff distance: 2.868156361948104
+Superpose RMSD: 1.4568119789101546
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.5150124688097357
+XRD Euclidean Distance: 0.7338646601566625
+OFM Euclidean Distance: 0.16535896800602082
+=========================================================
+=========================================================
+Energy distance: 0.006838798522949219
+Wyckoff RMSE: 0.4371733408460959
+Wyckoff MAE: 0.3699539520833334
+RMS Distance: 0.25916264235772507
+Anonymous RMS Distance: 0.25916264235772507
+Sinkhorn distance: 27.690321012888553
+Chamfer distance: 3.1089891822655007
+Hausdorff distance: 2.9007537715619836
+Superpose RMSD: 1.457214852170442
+Graph Edit Distance: 0.0
+Fingerprint Distance: 1.5141567715588686
+XRD Euclidean Distance: 0.7352423258223382
+OFM Euclidean Distance: 0.16769142991969865
+=========================================================
+=========================================================
+Energy distance: 0.004400730133056641
+Wyckoff RMSE: 0.4386518468147077
+Wyckoff MAE: 0.37061859124999996
+RMS Distance: 0.25848836303593403
+Anonymous RMS Distance: 0.25848836303593403
+Sinkhorn distance: 27.42836136539506
+Chamfer distance: 3.0820437348184235
+Hausdorff distance: 2.926596490871547
+Superpose RMSD: 1.676192367318927
+Graph Edit Distance: 2.0
+Fingerprint Distance: 1.5837047803261737
+XRD Euclidean Distance: 0.7266999611946708
+OFM Euclidean Distance: 0.15689833392018965
+=========================================================
+
+>>> Processing Formula: Ba2Tl2CuO6 (4 structures)
+=========================================================
+Energy distance: 0.01439809799194336
+Wyckoff RMSE: 0.4268398024745504
+Wyckoff MAE: 0.3518910366666667
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 91.53481633544364
+Chamfer distance: 13.744127507147583
+Hausdorff distance: 21.921555326854868
+Superpose RMSD: 9999
+Graph Edit Distance: 8.0
+Fingerprint Distance: 1.860842929703748
+XRD Euclidean Distance: 1.207545280376455
+OFM Euclidean Distance: 0.1120372025618495
+=========================================================
+=========================================================
+Energy distance: 0.014477252960205078
+Wyckoff RMSE: 0.42690904383532147
+Wyckoff MAE: 0.3519142272727273
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 91.4637639028965
+Chamfer distance: 13.740523534770828
+Hausdorff distance: 21.921149186188654
+Superpose RMSD: 9999
+Graph Edit Distance: 8.0
+Fingerprint Distance: 1.8610703276093563
+XRD Euclidean Distance: 1.2133520792935018
+OFM Euclidean Distance: 0.1115249701478986
+=========================================================
+=========================================================
+Energy distance: 0.022963523864746094
+Wyckoff RMSE: 0.4891890127887538
+Wyckoff MAE: 0.4088066190909091
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 182.77084182249294
+Chamfer distance: 18.010042145658776
+Hausdorff distance: 24.29598450722567
+Superpose RMSD: 9999
+Graph Edit Distance: 12.0
+Fingerprint Distance: 1.9546915318590405
+XRD Euclidean Distance: 1.1821405681741974
+OFM Euclidean Distance: 0.09661974390942069
+=========================================================
+=========================================================
+Energy distance: 0.014665603637695312
+Wyckoff RMSE: 0.45943200467575174
+Wyckoff MAE: 0.39262918303030303
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 112.50561408321838
+Chamfer distance: 16.07321575295148
+Hausdorff distance: 23.576201774774376
+Superpose RMSD: 9999
+Graph Edit Distance: 10.0
+Fingerprint Distance: 1.8713019268154458
+XRD Euclidean Distance: 1.2124250727812367
+OFM Euclidean Distance: 0.11024111339549922
+=========================================================
+
+>>> Processing Formula: CeCu2Si2 (5 structures)
+=========================================================
+Energy distance: 0.00012493133544921875
+Wyckoff RMSE: 0.44700453885411395
+Wyckoff MAE: 0.20080936000000002
+RMS Distance: 0.003782428020583939
+Anonymous RMS Distance: 0.003782428020583939
+Sinkhorn distance: 6.279516756101069
+Chamfer distance: 1.2683770044016476
+Hausdorff distance: 3.1200674937384987
+Superpose RMSD: 1.065276394044322
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.06300353374030732
+XRD Euclidean Distance: 0.3589879988875896
+OFM Euclidean Distance: 0.02400525832716313
+=========================================================
+=========================================================
+Energy distance: 0.0001697540283203125
+Wyckoff RMSE: 0.44708719456812107
+Wyckoff MAE: 0.20096586466666666
+RMS Distance: 0.0038158500910554704
+Anonymous RMS Distance: 0.0038158500910554704
+Sinkhorn distance: 6.302173946786681
+Chamfer distance: 1.2740722353335485
+Hausdorff distance: 3.1142065848393443
+Superpose RMSD: 1.0651411573596392
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.07560352477548893
+XRD Euclidean Distance: 0.33867278266465717
+OFM Euclidean Distance: 0.027229269435417265
+=========================================================
+=========================================================
+Energy distance: 0.00019884109497070312
+Wyckoff RMSE: 0.44698413921522784
+Wyckoff MAE: 0.20065958
+RMS Distance: 0.00272798164685761
+Anonymous RMS Distance: 0.00272798164685761
+Sinkhorn distance: 6.2543526345717515
+Chamfer distance: 1.2602428664691883
+Hausdorff distance: 3.111319092749502
+Superpose RMSD: 1.0646325796844422
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.05645053907576511
+XRD Euclidean Distance: 0.15190490529411846
+OFM Euclidean Distance: 0.019107652138997105
+=========================================================
+=========================================================
+Energy distance: 0.00015926361083984375
+Wyckoff RMSE: 0.4470570843136089
+Wyckoff MAE: 0.20074366400000002
+RMS Distance: 0.003161318766628671
+Anonymous RMS Distance: 0.003161318766628671
+Sinkhorn distance: 6.238994004992438
+Chamfer distance: 1.2574498087557917
+Hausdorff distance: 3.116438426813235
+Superpose RMSD: 1.0647619297712712
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.05023527550990071
+XRD Euclidean Distance: 0.07161383998409848
+OFM Euclidean Distance: 0.017527311365739488
+=========================================================
+=========================================================
+Energy distance: 0.00017452239990234375
+Wyckoff RMSE: 0.001296806436309347
+Wyckoff MAE: 0.0009431053333333405
+RMS Distance: 0.0032539321393736972
+Anonymous RMS Distance: 0.0032539321393736972
+Sinkhorn distance: 0.040965448653518574
+Chamfer distance: 0.01638617946140743
+Hausdorff distance: 0.01917648708756834
+Superpose RMSD: 0.007999604843695154
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.053186309068641136
+XRD Euclidean Distance: 0.27070672648234095
+OFM Euclidean Distance: 0.02003777564751255
+=========================================================
+
+>>> Processing Formula: Co3Sb4O6F6 (2 structures)
+=========================================================
+Energy distance: 0.04573774337768555
+Wyckoff RMSE: 5555
+Wyckoff MAE: 5555
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 35.091819185631245
+Chamfer distance: 3.234702885574541
+Hausdorff distance: 4.770209294167733
+Superpose RMSD: 1.93076171983859
+Graph Edit Distance: 99.0
+Fingerprint Distance: 2.453930621940457
+XRD Euclidean Distance: 1.3132339083117226
+OFM Euclidean Distance: 0.3510323094695691
+=========================================================
+=========================================================
+Energy distance: 0.028206825256347656
+Wyckoff RMSE: 5555
+Wyckoff MAE: 5555
+RMS Distance: None
+Anonymous RMS Distance: None
+Sinkhorn distance: 38.63300458173785
+Chamfer distance: 3.598215422115593
+Hausdorff distance: 6.072387801799387
+Superpose RMSD: 9999
+Graph Edit Distance: 95.0
+Fingerprint Distance: 2.303576229444594
+XRD Euclidean Distance: 1.352953645644338
+OFM Euclidean Distance: 0.23576078338241857
+=========================================================

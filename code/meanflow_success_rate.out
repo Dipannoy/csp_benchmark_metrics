@@ -1,0 +1,10 @@
+node385
+Sun May 10 13:08:59 EDT 2026
+Evaluating meanflow...
+
+--- Results for meanflow ---
+Total Formulas: 85
+Structure Success Rate: 87.06%
+Space Group Success Rate: 81.18%
+Consensus Rate: 77.65%
+Detailed results saved to ../results/match_results_meanflow_0.5.csv

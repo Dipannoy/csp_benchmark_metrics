@@ -1,0 +1,424 @@
+2026-03-15 10:41:04.764471: I tensorflow/core/util/util.cc:169] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-03-15 10:41:28.873122: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F AVX512_VNNI FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2026-03-15 10:41:28.976235: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1532] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 14784 MB memory:  -> device: 0, name: Tesla V100-PCIE-16GB, pci bus id: 0000:3b:00.0, compute capability: 7.0
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/cifparser.py:910: UserWarning: Issues encountered while parsing CIF: Some fractional co-ordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: %s" % "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/distance_mul.py:387: RuntimeWarning: invalid value encountered in scalar divide
+  fitness = 2 * n / (n1 + n2)
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/distance_mul.py:387: RuntimeWarning: invalid value encountered in scalar divide
+  fitness = 2 * n / (n1 + n2)
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/distance_mul.py:387: RuntimeWarning: invalid value encountered in scalar divide
+  fitness = 2 * n / (n1 + n2)
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/distance_mul.py:387: RuntimeWarning: invalid value encountered in scalar divide
+  fitness = 2 * n / (n1 + n2)
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+spglib: ssm_get_exact_positions failed.
+spglib: get_bravais_exact_positions_and_lattice failed.
+spglib: ssm_get_exact_positions failed.
+spglib: get_bravais_exact_positions_and_lattice failed.
+spglib: ssm_get_exact_positions failed.
+spglib: get_bravais_exact_positions_and_lattice failed.
+spglib: ssm_get_exact_positions failed.
+spglib: get_bravais_exact_positions_and_lattice failed.
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/work/dg47/MLEG/CSPBenchMetrics/code/distance_mul.py:387: RuntimeWarning: invalid value encountered in scalar divide
+  fitness = 2 * n / (n1 + n2)
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]

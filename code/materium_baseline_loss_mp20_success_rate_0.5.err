@@ -1,0 +1,13 @@
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1019: UserWarning: Some occupancies ([1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]) sum to > 1! If they are within the occupancy_tolerance, they will be rescaled. The current occupancy_tolerance is set to: 1.0
+  warnings.warn(msg)
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1191: UserWarning: No structure parsed for section 1 in CIF.
+Species occupancies sum to more than 1!
+  warnings.warn(msg)
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some occupancies ([1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]) sum to > 1! If they are within the occupancy_tolerance, they will be rescaled. The current occupancy_tolerance is set to: 1.0
+No structure parsed for section 1 in CIF.
+Species occupancies sum to more than 1!
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))

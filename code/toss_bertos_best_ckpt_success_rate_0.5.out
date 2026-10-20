@@ -1,0 +1,10 @@
+node384
+Sun May 17 17:42:18 EDT 2026
+Evaluating toss...
+
+--- Results for toss ---
+Total Formulas: 101
+Structure Success Rate: 68.32%
+Space Group Success Rate: 68.32%
+Consensus Rate: 64.36%
+Detailed results saved to ../results/match_results_toss_model_bertos_ox_best_checkpoint_0.5.csv

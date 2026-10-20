@@ -1,0 +1,9 @@
+node396
+Wed Mar 18 13:16:38 EDT 2026
+Evaluating bertos...
+
+--- Results for bertos ---
+Total Formulas: 63
+Structure Success Rate: 52.38%
+Space Group Success Rate: 49.21%
+Detailed results saved to ../results/match_results_bertos.csv

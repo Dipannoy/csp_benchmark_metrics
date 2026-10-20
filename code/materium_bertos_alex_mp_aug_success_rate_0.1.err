@@ -1,0 +1,4 @@
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/io/cif.py:1197: UserWarning: Issues encountered while parsing CIF: Some fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  warnings.warn("Issues encountered while parsing CIF: " + "\n".join(self.warnings))
+/home/dg47/.conda/envs/metrics_2/lib/python3.10/site-packages/pymatgen/symmetry/analyzer.py:128: DeprecationWarning: dict interface is deprecated. Use attribute interface instead
+  return self._space_group_data["international"]

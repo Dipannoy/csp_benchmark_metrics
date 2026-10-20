@@ -1,0 +1,10 @@
+node393
+Fri May 15 17:32:43 EDT 2026
+Evaluating materium_bertos_alexmp_aug...
+
+--- Results for materium_bertos_alexmp_aug ---
+Total Formulas: 98
+Structure Success Rate: 56.12%
+Space Group Success Rate: 52.04%
+Consensus Rate: 44.90%
+Detailed results saved to ../results/match_results_materium_bertos_0.1.csv

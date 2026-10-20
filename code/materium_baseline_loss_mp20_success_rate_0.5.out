@@ -1,0 +1,10 @@
+node398
+Tue Sep 29 13:20:13 EDT 2026
+Evaluating materium_baseline_loss_mp20...
+
+--- Results for materium_baseline_loss_mp20 ---
+Total Formulas: 180
+Structure Success Rate: 31.11%
+Space Group Success Rate: 30.56%
+Consensus Rate: 28.89%
+Detailed results saved to ../results/match_results_materium_baeline_loss_mp20_step_500_0.5.csv

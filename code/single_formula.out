@@ -1,0 +1,19 @@
+dgx-1
+Fri Mar 13 19:12:12 EDT 2026
+Using Python from: /home/dg47/.conda/envs/metrics_2/bin/python
+=========================================================
+Energy distance: 0.0008835792541503906
+Wyckoff RMSE: 0.477440118957404
+Wyckoff MAE: 0.37078989999999995
+RMS Distance: 0.051978090889091576
+Anonymous RMS Distance: 0.051978090889091576
+Sinkhorn distance: 7.962340816267173
+Chamfer distance: 1.2314215266379671
+Hausdorff distance: 3.729657784732419
+Superpose RMSD: 1.151501208538802
+Graph Edit Distance: 0.0
+Fingerprint Distance: 0.660119846674949
+XRD Euclidean Distance: 0.17751175459038554
+OFM Euclidean Distance: 0.02242028994023595
+See results/distance_table.csv
+=========================================================

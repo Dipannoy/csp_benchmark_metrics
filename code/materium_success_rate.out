@@ -1,0 +1,9 @@
+node389
+Mon Mar 16 20:31:22 EDT 2026
+Evaluating materium...
+
+--- Results for materium ---
+Total Formulas: 126
+Structure Success Rate: 58.73%
+Space Group Success Rate: 59.52%
+Detailed results saved to ../results/match_results_materium.csv

@@ -1,0 +1,10 @@
+node372
+Tue Sep 29 13:20:27 EDT 2026
+Evaluating materium_loss_v1_mp20...
+
+--- Results for materium_loss_v1_mp20 ---
+Total Formulas: 180
+Structure Success Rate: 57.22%
+Space Group Success Rate: 50.56%
+Consensus Rate: 49.44%
+Detailed results saved to ../results/match_results_materium_loss_v1_mp20_0.5.csv

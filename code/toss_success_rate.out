@@ -1,0 +1,9 @@
+node384
+Sun Mar 22 13:13:58 EDT 2026
+Evaluating toss...
+
+--- Results for toss ---
+Total Formulas: 123
+Structure Success Rate: 54.47%
+Space Group Success Rate: 56.10%
+Detailed results saved to ../results/match_results_toss_model_toss_ox.csv
